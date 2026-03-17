@@ -2,7 +2,7 @@
 
 **4th Year Computer Science Student | Full-Stack Developer (Vue.js & Nuxt.js)**
 
-- 📫 **Email:** 660112230006@live.bru.ac.th
+- 📫 **Email:** 660112230006@bru.ac.th
 
 ---
 
