@@ -9,13 +9,12 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Frontend:** Vue.js, Nuxt.js, TypeScript, JavaScript, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, Nuxt Server
-- **Database & ORM:** PostgreSQL, MySQL, Prisma
-- **AI & Integrations:** PyTorch, RAG, n8n (Automation), LINE Messaging API
-- **DevOps & Tools:** Git / GitHub, Docker, Postman
-- **Other Skills:** IoT Development, .NET Framework, Python
-
+- **Frontend:** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Nuxt Server](https://img.shields.io/badge/Nuxt_Server-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+- **Database & ORM:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+- **AI & Integrations:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) ![LINE](https://img.shields.io/badge/LINE_API-00C300?style=flat-square&logo=line&logoColor=white) **RAG**
+- **DevOps & Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- **Other Skills:** ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **IoT Development**
 ---
 
 ### 📚 Research & Academic Projects
