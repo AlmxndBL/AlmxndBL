@@ -91,7 +91,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlmxndBL&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DC82&icon_color=4FC08D&text_color=C9D1D9" alt="GitHub Stats" />
-</p>
-
