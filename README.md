@@ -14,7 +14,7 @@
 - **Database & ORM:** PostgreSQL, MySQL, Prisma
 - **AI & Integrations:** PyTorch, RAG, n8n (Automation), LINE Messaging API
 - **DevOps & Tools:** Git / GitHub, Docker, Postman
-- **Other Skills:** IoT Development (ESP32, Smart Systems), .NET Framework, Python
+- **Other Skills:** IoT Development, .NET Framework, Python
 
 ---
 
