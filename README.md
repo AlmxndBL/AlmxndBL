@@ -1,89 +1,173 @@
-# Hi there 👋, I'm Chaiyakorn (Jack) 
+<div align="center">
 
-**4th Year Computer Science Student | Full-Stack Developer (Vue.js & Nuxt.js)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC08D,100:00DC82&height=210&section=header&text=Chaiyakorn%20(Jack)&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Integration%20%7C%20RAG%20Builder&descSize=18&descAlignY=56&descColor=eafff5" width="100%"/>
 
-- 📫 **Email:** 660112230006@bru.ac.th
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00DC82&center=true&vCenter=true&width=640&height=46&lines=4th-Year+CS+Student+%40+BRU;Full-Stack+Developer+(Vue+%26+Nuxt);AI+Integration+%2B+RAG+%2B+n8n+Automation;Open+to+Internship+Opportunities" alt="Typing SVG" />
 
----
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AlmxndBL&label=Profile%20Views&color=00DC82&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AlmxndBL?label=Followers&style=flat-square&color=00DC82&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/Based%20in-Thailand%20%F0%9F%87%B9%F0%9F%87%AD-00DC82?style=flat-square" alt="location" />
+  <img src="https://img.shields.io/badge/Open%20to-Internship-4FC08D?style=flat-square" alt="open to work" />
+</p>
 
-### 🎓 About Me
-- 🎓 **4th Year Computer Science Student** at Buriram Rajabhat University.
-- 💻 **Full-Stack Developer** with a strong focus on the **Vue.js** and **Nuxt.js** ecosystems to build high-performance, modern web applications.
-- 🤖 Experienced in integrating **existing AI APIs**, **RAG** (Retrieval-Augmented Generation), and Workflow Automation (**n8n**) to create scalable solutions efficiently.
-- 🎯 Currently seeking **Internship opportunities** as a Full-Stack Developer.
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack & Tools
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-**Frontend Development**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) 
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+I'm **Jack** — a 4th-year Computer Science student who loves turning ideas into fast, polished web apps and weaving **AI** into them where it genuinely helps people.
 
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) 
-![Nuxt Server](https://img.shields.io/badge/Nuxt_Server-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+```ts
+const jack = {
+  name:    "Chaiyakorn (Jack)",
+  role:    "Full-Stack Developer",
+  school:  "Buriram Rajabhat University — CS, Year 4",
+  stack:   ["Vue.js", "Nuxt.js", "TypeScript", "Node.js"],
+  ai:      ["RAG", "AI APIs", "n8n Automation", "PyTorch"],
+  status:  "Seeking a Full-Stack Developer internship 🚀",
+  contact: "660112230006@bru.ac.th",
+};
+```
 
-**AI, Integrations & DevTools**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) 
-![LINE](https://img.shields.io/badge/LINE_API-00C300?style=flat-square&logo=line&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- 🔭 &nbsp;Building modern, high-performance web apps with **Vue** & **Nuxt**
+- 🤖 &nbsp;Integrating **AI APIs**, **RAG** pipelines & **n8n** automations into real products
+- 🌱 &nbsp;Currently leveling up in **system design** and **AI engineering**
+- 💬 &nbsp;Ask me about **Vue/Nuxt**, **AI chatbots**, or **workflow automation**
 
-**Other Skills:**  
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br/>
 
----
-
-### 🏅 Certificates & Awards
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="./certificate/Super_AI_Engineer_ss5_2025.png" alt="Super AI Innovator 2025" width="400" style="border-radius:10px;"/>
-  <br>
-  <b>🏆 Super AI Engineer Development Program Innovator 2025</b>
+
+**Languages & Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,vue,nuxtjs,nextjs,react,tailwind,html,css&theme=dark" alt="frontend stack" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,dotnet,postgres,mysql,prisma&theme=dark" alt="backend stack" />
+
+**AI · DevOps · Tools**
+
+<img src="https://skillicons.dev/icons?i=pytorch,docker,git,github,postman&theme=dark" alt="tools stack" />
+&nbsp;
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/LINE_API-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line api" />
+<img src="https://img.shields.io/badge/RAG-4FC08D?style=for-the-badge&logoColor=white" alt="rag" />
+
 </div>
-<br>
 
-**📄 Other Certifications:**
-- [สถาบันคุณวุฒิวิชาชีพ: สาขาวิชาชีพอุตสาหกรรมดิจิทัล อาชีพนักพัฒนาระบบ](./certificate/สาขาวิชาชีพอุตสาหกรรมดิจิทัล%20อาชีพนักพัฒนาระบบ.pdf)
-- [8th BRICC Festival 2025: เกียรติบัตรการแข่งขันโครงการ 20 ทีมสุดท้าย](./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf)
-- **AI Architecture:** Designed the Phattharaborpit School AI Chatbot.
+<br/>
 
----
+## 📊 GitHub Stats
 
-### 📚 Research & Academic Projects
+<div align="center">
 
-**👁️ AI-Powered Image-to-Audio Description for the Visually Impaired (NSC Project)**
-- Research and development of an automated image captioning system designed to assist the visually impaired.
-- **Core Architecture:** Heavily inspired by the **"Attention Is All You Need"** concept, the system relies on advanced Attention mechanisms to process visual and sequential data. It utilizes an Encoder-Decoder architecture, combining **ConvNeXt** with the **Bottleneck Attention Module (BAM)** for precise spatial and channel feature extraction, and an **LSTM with Additive Attention** for contextual sequence generation.
-- **Localization:** Trained on specialized datasets featuring Thai culture, food, and environments to ensure accurate, context-aware descriptions.
-- **Tech Stack:** `React Native` `Bun` `Python` `PyTorch`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlmxndBL&show_icons=true&hide_border=true&bg_color=00000000&title_color=00DC82&icon_color=4FC08D&text_color=808080&include_all_commits=true&count_private=true" alt="github stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlmxndBL&hide_border=true&background=00000000&ring=00DC82&fire=00DC82&currStreakLabel=00DC82&stroke=4FC08D&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080" alt="github streak" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmxndBL&layout=compact&hide_border=true&bg_color=00000000&title_color=00DC82&text_color=808080&langs_count=8" alt="top languages" />
 
-### 🚀 Featured Development Projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlmxndBL&bg_color=00000000&color=00DC82&line=4FC08D&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
 
-**🧺 SaiJai Phareab Laundry Service (Senior Project | Ongoing)**
-- A comprehensive full-stack management system for laundry services.
-- **Key Features:** Automated Queue Sorting, real-time order tracking, and an AI Chatbot for automated customer service.
-- **Tech Stack:** `Nuxt.js` `TypeScript` `PostgreSQL` `Prisma`
+</div>
 
-**🧠 Mental Health Support & Depression Screening AI Chatbot**
-- Developed for the 8th BRICC Festival 2025.
-- An AI chatbot designed for initial mental health screening, processing conversational data from online communities to provide contextually empathetic responses.
+<br/>
 
----
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧺 SaiJai Phareab — Laundry Platform
+![Status](https://img.shields.io/badge/Senior_Project-Ongoing-00DC82?style=flat-square)
+
+A full-stack management platform for laundry services with smart queue automation and AI-powered customer support.
+
+**Highlights**
+- ⚡ Automated queue-sorting engine
+- 📦 Real-time order tracking
+- 🤖 AI chatbot for customer service
+
+`Nuxt.js` · `TypeScript` · `PostgreSQL` · `Prisma`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Mental Health AI Chatbot
+![Status](https://img.shields.io/badge/8th_BRICC_Festival-2025-4FC08D?style=flat-square)
+
+An empathetic AI chatbot for initial mental-health screening, trained on conversational data from online communities.
+
+**Highlights**
+- 🔍 Depression screening via conversation
+- 💬 Context-aware empathetic responses
+- 📊 Community data-processing pipeline
+
+`AI` · `NLP` · `Chatbot`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🔬 Research
+
+### 👁️ AI Image-to-Audio Description for the Visually Impaired
+![Project](https://img.shields.io/badge/NSC-Academic_Project-00DC82?style=flat-square)
+
+An automated image-captioning system that helps visually impaired users understand their surroundings — localized for Thai culture and environments.
+
+- **Architecture** — ConvNeXt + BAM (encoder) · LSTM with Additive Attention (decoder), inspired by *"Attention Is All You Need"*
+- **Localization** — Trained on Thai food, culture, and environment datasets
+- **Stack** — `React Native` · `Bun` · `Python` · `PyTorch`
+
+<br/>
+
+## 🏅 Certificates & Awards
+
+<div align="center">
+
+<a href="./certificate/Super_AI_Engineer_ss5_2025.png">
+  <img src="./certificate/Super_AI_Engineer_ss5_2025.png" alt="Super AI Engineer — Innovator 2025" width="440"/>
+</a>
+
+<br/>
+
+🏆 &nbsp;**Super AI Engineer Development Program — Innovator 2025**
+
+</div>
+
+<br/>
+
+| 🎖️ Credential | Detail | Link |
+|---|---|:---:|
+| 🏛️ สถาบันคุณวุฒิวิชาชีพ | นักพัฒนาระบบ — สาขาอุตสาหกรรมดิจิทัล | [📄 PDF](./certificate/สาขาวิชาชีพอุตสาหกรรมดิจิทัล%20อาชีพนักพัฒนาระบบ.pdf) |
+| 🥈 8th BRICC Festival 2025 | Top 20 Teams | [📄 PDF](./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf) |
+| 🤖 AI Architecture | Phattharaborpit School AI Chatbot — System Design | — |
+
+<br/>
+
+<div align="center">
+
+## 📬 Let's Connect
+
+<a href="mailto:660112230006@bru.ac.th">
+  <img src="https://img.shields.io/badge/Email-660112230006@bru.ac.th-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+<a href="https://github.com/AlmxndBL">
+  <img src="https://img.shields.io/badge/GitHub-AlmxndBL-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+
+<br/><br/>
+
+<i>"Build things that help people — make them fast, make them kind." ✨</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DC82,100:4FC08D&height=120&section=footer" width="100%"/>
+
+</div>
