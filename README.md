@@ -17,7 +17,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-I'm **Jack** — a 4th-year Computer Science student who loves turning ideas into fast, polished web apps and weaving **AI** into them where it genuinely helps people.
+I'm **Chaiyakorn** — a 4th-year Computer Science student who loves turning ideas into fast, polished web apps and weaving **AI** into them where it genuinely helps people.
 
 ```ts
 const jack = {
