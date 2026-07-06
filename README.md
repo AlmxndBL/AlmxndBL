@@ -36,24 +36,23 @@ const jack = {
 
 <br/>
 
-## Tech Stack
+### 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages & Frontend**
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,vue,nuxtjs,nextjs,react,tailwind,html,css&theme=dark" alt="frontend stack" />
+**Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,bun,dotnet,postgres,mysql,prisma&theme=dark" alt="backend stack" />
-
-**AI · DevOps · Tools**
-
-<img src="https://skillicons.dev/icons?i=pytorch,docker,git,github,postman&theme=dark" alt="tools stack" />
-
-<sub>also working with &nbsp;·&nbsp; **n8n** &nbsp;·&nbsp; **LINE Messaging API** &nbsp;·&nbsp; **RAG pipelines**</sub>
-
+**Tools & Integrations**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 </div>
 
 <br/>
