@@ -35,14 +35,46 @@ const dev = {
 
 ### 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **💻 Frontend** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) |
-| **🗄️ Database & ORM** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **🧠 AI & Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4FC08D?style=flat-square&logo=spacy&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-00DC82?style=flat-square&logo=openai&logoColor=white) |
-| **📝 Languages** | `C#` · `C++` · `Python` · `TypeScript` · `JavaScript` |
-| **🔧 Tools & DevOps** | `Git` · `GitHub` · `Docker` · `Figma` · `Postman` · `Jupyter` |
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Languages Block -->
+    <td width="380" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=35&text=LANGUAGES&fontSize=14&fontColor=38bdf8" width="100%"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts&theme=dark" alt="Languages" />
+      <br/><br/>
+    </td>
+    <td width="20"></td>
+    <!-- Frontend Block -->
+    <td width="380" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=35&text=FRONTEND&fontSize=14&fontColor=38bdf8" width="100%"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,vue,nuxt,angular,react,tailwind&theme=dark" alt="Frontend" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <!-- Backend & Database Block -->
+    <td width="380" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=35&text=BACKEND%20%26%20DATABASE&fontSize=14&fontColor=38bdf8" width="100%"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,bun,dotnet,postgres,sqlite,prisma&theme=dark" alt="Backend & DB" />
+      <br/><br/>
+    </td>
+    <td width="20"></td>
+    <!-- AI & Tools Block -->
+    <td width="380" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=35&text=AI%20%26%20DEVELOPMENT%20TOOLS&fontSize=14&fontColor=38bdf8" width="100%"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=pytorch,git,github,docker,figma,postman&theme=dark" alt="AI & Tools" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
