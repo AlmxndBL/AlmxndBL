@@ -33,41 +33,21 @@ const dev = {
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Capabilities (ทักษะความสามารถ)
 
-```yml
-Languages:
-  - C#
-  - C++
-  - Python
-  - JavaScript
-  - TypeScript
+* **💻 Web & Mobile Development (การพัฒนาเว็บไซต์และแอปพลิเคชันมือถือ)**
+  * **Frontend (ระบบฝั่งหน้าบ้าน):** `Vue.js`, `Nuxt.js`, `Angular`, `React Native`, `Tailwind CSS`, `HTML`, `CSS`
+    * *เข้าใจง่ายๆ:* ออกแบบและสร้างหน้าจอเว็บไซต์ รวมถึงแอปพลิเคชันมือถือให้สวยงาม ใช้งานง่าย และรองรับทุกขนาดหน้าจอ (Responsive)
+  * **Backend & Database (ระบบหลังบ้านและฐานข้อมูล):** `Node.js`, `Express.js`, `Bun`, `.NET 8 (C#)`, `PostgreSQL`, `SQLite`, `Prisma`, `EF Core`
+    * *เข้าใจง่ายๆ:* พัฒนาระบบประมวลผลเบื้องหลัง ระบบสมัครสมาชิก/ความปลอดภัย และระบบจัดเก็บข้อมูลหลักของแอปพลิเคชัน
 
-Frontend:
-  - HTML / CSS
-  - Vue.js / Nuxt.js
-  - Angular
-  - React Native
-  - Tailwind CSS
+* **🧠 Artificial Intelligence & Automation (ปัญญาประดิษฐ์และระบบอัตโนมัติ)**
+  * **AI & Deep Learning:** `PyTorch`, `NLP (วิเคราะห์ภาษา)`, `RAG (ระบบดึงข้อมูลช่วยตอบ)`
+    * *เข้าใจง่ายๆ:* สร้างแชทบอทอัจฉริยะที่สามารถตอบคำถามเฉพาะทางได้ ระบบคัดกรองข้อมูล และระบบแปลงรูปภาพเป็นเสียง
 
-Backend & Database:
-  - Node.js / Express.js / Bun
-  - .NET 8 (C#)
-  - PostgreSQL / SQLite
-  - Prisma / Entity Framework Core
-
-AI & Automation:
-  - PyTorch
-  - NLP (Natural Language Processing)
-  - RAG (Retrieval-Augmented Generation)
-
-Tools:
-  - Git / GitHub
-  - Docker
-  - Figma
-  - Postman
-  - Jupyter Notebook
-```
+* **⚙️ Core Languages & Tools (ภาษาและเครื่องมือหลัก)**
+  * **Programming Languages:** `C#`, `Python`, `TypeScript`, `JavaScript`, `C++`
+  * **Development Tools:** `Git / GitHub` (ทำงานร่วมกันเป็นทีม), `Docker` (จำลองสภาพแวดล้อมระบบ), `Figma` (ออกแบบหน้าตาเว็บ), `Postman`, `Jupyter Notebook`
 
 ---
 
@@ -138,6 +118,12 @@ Tools:
 
 ### 📬 Connect
 
-[chaiyakorn.y04@gmail.com](mailto:chaiyakorn.y04@gmail.com) • [GitHub](https://github.com/AlmxndBL)
+<a href="mailto:chaiyakorn.y04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-chaiyakorn.y04%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/AlmxndBL">
+  <img src="https://img.shields.io/badge/GitHub-AlmxndBL-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub" />
+</a>
 
 </div>
