@@ -39,66 +39,64 @@ const jack = {
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
-**Programming Languages**
-<br/>
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-<br/><br/>
-
-**Frontend**
-<br/>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<br/><br/>
-
-**Backend**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-<br/><br/>
-
-**Database**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-<br/><br/>
-
-**AI & Automation**
-<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4FC08D?style=for-the-badge&logo=spacy&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00DC82?style=for-the-badge&logo=openai&logoColor=white)
-
-<br/><br/>
-
-**Tools**
-<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Programming Languages</h4>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/></a>
+      <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/></a>
+      <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+      <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend Development</h4>
+      <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/></a>
+      <a href="https://nuxt.com/"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/></a>
+      <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/></a>
+      <br/>
+      <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/></a>
+      <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Runtime</h4>
+      <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+      <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/></a>
+      <a href="https://bun.sh/"><img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/></a>
+      <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💾 Database & ORM</h4>
+      <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+      <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/></a>
+      <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/></a>
+      <a href="https://learn.microsoft.com/en-us/ef/core/"><img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI, Agents & Automation</h4>
+      <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+      <a href="https://spacy.io/"><img src="https://img.shields.io/badge/NLP_/_SpaCy-4FC08D?style=flat-square&logo=spacy&logoColor=white" alt="NLP"/></a>
+      <a href="https://openai.com/"><img src="https://img.shields.io/badge/RAG_/_LLMs-00DC82?style=flat-square&logo=openai&logoColor=white" alt="RAG"/></a>
+      <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔧 Development Tools</h4>
+      <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
+      <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+      <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
+      <br/>
+      <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/></a>
+      <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/></a>
+      <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -117,58 +115,165 @@ const jack = {
 
 <br/>
 
-## 🚀 Projects
-
 ## 🚀 Featured Projects
 
-| Project | Status | Description & Highlights | Tech Stack | Links |
-| :--- | :--- | :--- | :--- | :---: |
-| **🧺 SaiJai Phareab** | ![Ongoing](https://img.shields.io/badge/Ongoing-00DC82?style=flat-square) | Full-stack laundry platform with automated queue-sorting and AI chatbot support. | `Nuxt.js` · `TS` · `PostgreSQL` · `Prisma` | — |
-| **🤖 AI Agent CLI** | ![Active](https://img.shields.io/badge/Active-00DC82?style=flat-square) | Local-first coding assistant with Obsidian graph memory and security guardrails. | `TypeScript` · `Discord` · `Obsidian` | [Source](https://github.com/AlmxndBL/Ai-agent-system-CLI) |
-| **🏆 Esport Draw** | ![Live](https://img.shields.io/badge/Live-4FC08D?style=flat-square) | Tournament bracket manager with animated spin wheel and drag-drop standing. | `Nuxt.js` · `Vue` · `TypeScript` | [Demo](https://esport-draw.vercel.app) / [Source](https://github.com/AlmxndBL/esport-draw) |
-| **🏢 Mini Leave Management** | ![Complete](https://img.shields.io/badge/Complete-4FC08D?style=flat-square) | Enterprise leave portal with JWT/RBAC auth and EF Core atomic transactions. | `C#` · `.NET 8` · `Angular` · `SQLite` | [Source](https://github.com/AlmxndBL/Mini-Leave-Management-System) |
-| **🧠 Mental Health AI** | ![Complete](https://img.shields.io/badge/Complete-4FC08D?style=flat-square) | Empathetic mental health screening chatbot trained on community datasets. | `AI` · `NLP` · `Chatbot` | — |
-| **🎒 Knapsack Solver** | ![Complete](https://img.shields.io/badge/Complete-00DC82?style=flat-square) | Interactive visualizer comparing Greedy and Dynamic Programming solvers. | `Nuxt.js` · `Vue` · `TypeScript` | [Source](https://github.com/AlmxndBL/KnapsackProject) |
+<table width="100%">
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h3>🧺 SaiJai Phareab &nbsp;&nbsp; <img src="https://img.shields.io/badge/Ongoing-00DC82?style=flat-square" valign="middle" /></h3>
+      <p>Full-stack laundry platform with automated queue-sorting and AI chatbot support.</p>
+      <strong>Tech Stack:</strong><br/>
+      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square" alt="Nuxt.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square" alt="Prisma"/>
+      <br/><br/>
+      <em>(Internal / Private Repo)</em>
+    </td>
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h3>🤖 AI Agent CLI &nbsp;&nbsp; <img src="https://img.shields.io/badge/Active-00DC82?style=flat-square" valign="middle" /></h3>
+      <p>Local-first coding assistant with Obsidian graph memory and security guardrails.</p>
+      <strong>Tech Stack:</strong><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square" alt="Discord"/>
+      <img src="https://img.shields.io/badge/Obsidian-7C4DFF?style=flat-square" alt="Obsidian"/>
+      <br/><br/>
+      <a href="https://github.com/AlmxndBL/Ai-agent-system-CLI"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&label=Source%20Code" alt="Source Code"/></a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" valign="top">
+      <h3>🏆 Esport Draw &nbsp;&nbsp; <img src="https://img.shields.io/badge/Live-4FC08D?style=flat-square" valign="middle" /></h3>
+      <p>Tournament bracket manager with animated spin wheel and drag-drop standing.</p>
+      <strong>Tech Stack:</strong><br/>
+      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square" alt="Nuxt.js"/>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square" alt="Vue.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square" alt="TypeScript"/>
+      <br/><br/>
+      <a href="https://esport-draw.vercel.app"><img src="https://img.shields.io/badge/Demo-4FC08D?style=flat-square&label=Live%20Demo" alt="Live Demo"/></a> &nbsp;
+      <a href="https://github.com/AlmxndBL/esport-draw"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&label=Source%20Code" alt="Source Code"/></a>
+    </td>
+    <!-- Project 4 -->
+    <td width="50%" valign="top">
+      <h3>🏢 Mini Leave Management &nbsp;&nbsp; <img src="https://img.shields.io/badge/Complete-4FC08D?style=flat-square" valign="middle" /></h3>
+      <p>Enterprise leave portal with JWT/RBAC auth and EF Core atomic transactions.</p>
+      <strong>Tech Stack:</strong><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" alt="C#"/>
+      <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square" alt=".NET 8"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" alt="Angular"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square" alt="SQLite"/>
+      <br/><br/>
+      <a href="https://github.com/AlmxndBL/Mini-Leave-Management-System"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&label=Source%20Code" alt="Source Code"/></a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 5 -->
+    <td width="50%" valign="top">
+      <h3>🧠 Mental Health AI &nbsp;&nbsp; <img src="https://img.shields.io/badge/Complete-4FC08D?style=flat-square" valign="middle" /></h3>
+      <p>Empathetic mental health screening chatbot trained on community datasets.</p>
+      <strong>Tech Stack:</strong><br/>
+      <img src="https://img.shields.io/badge/AI-00DC82?style=flat-square" alt="AI"/>
+      <img src="https://img.shields.io/badge/NLP-4FC08D?style=flat-square" alt="NLP"/>
+      <img src="https://img.shields.io/badge/Chatbot-1A1A1E?style=flat-square" alt="Chatbot"/>
+      <br/><br/>
+      <em>(Internal Academic Project)</em>
+    </td>
+    <!-- Project 6 -->
+    <td width="50%" valign="top">
+      <h3>🎒 Knapsack Solver &nbsp;&nbsp; <img src="https://img.shields.io/badge/Complete-00DC82?style=flat-square" valign="middle" /></h3>
+      <p>Interactive visualizer comparing Greedy and Dynamic Programming solvers.</p>
+      <strong>Tech Stack:</strong><br/>
+      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square" alt="Nuxt.js"/>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square" alt="Vue.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square" alt="TypeScript"/>
+      <br/><br/>
+      <a href="https://github.com/AlmxndBL/KnapsackProject"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&label=Source%20Code" alt="Source Code"/></a>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br/><br/>
 
 ## 🔬 AI & Deep Learning Research
 
-> [!TIP]
-> ### AI Image-to-Audio Description for the Visually Impaired
-> **National Software Contest (NSC) — Academic Project**
-> 
-> An automated image-captioning system that helps visually impaired users understand their surroundings — localized for Thai culture and environments.
-> 
-> * **Architecture:** ConvNeXt + BAM (Encoder) ──► LSTM with Additive Attention (Decoder) *(Inspired by "Attention Is All You Need")*
-> * **Localization:** Specially trained on Thai food, culture, and environment datasets.
-> * **Stack:** `React Native` · `Bun` · `Python` · `PyTorch`
-> 
-> [![GitHub Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/AlmxndBL/APITAD-Project)
+<table width="100%">
+  <tr>
+    <td style="padding: 20px;">
+      <div align="left">
+        <h3>👁️ AI Image-to-Audio Description for the Visually Impaired</h3>
+        <p><strong>National Software Contest (NSC) — Academic Project</strong></p>
+        <p>An automated image-captioning system that helps visually impaired users understand their surroundings — localized for Thai culture and environments.</p>
+        
+        <p><strong>🧠 Architecture:</strong></p>
+        <ul>
+          <li><strong>Encoder:</strong> ConvNeXt + BAM</li>
+          <li><strong>Decoder:</strong> LSTM with Additive Attention <em>(Inspired by "Attention Is All You Need")</em></li>
+        </ul>
+        
+        <p><strong>🇹🇭 Localization:</strong> Specially trained on Thai food, culture, and environment datasets.</p>
+        
+        <p><strong>Tech Stack:</strong><br/>
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+          <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        </p>
+        <br/>
+        <a href="https://github.com/AlmxndBL/APITAD-Project"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&label=Source%20Code" alt="Source Code"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br/><br/>
 
 ## 🏅 Certificates & Awards
 
-<div align="center">
-
-<a href="./certificate/Super_AI_Engineer_ss5_2025.png">
-  <img src="./certificate/Super_AI_Engineer_ss5_2025.png" alt="Super AI Engineer — Innovator 2025" width="420"/>
-</a>
-
-<br/>
-<sub><i>Super AI Engineer Development Program — Innovator 2025</i></sub>
-<br/><br/>
-
-| Certificate / Award | Organization & Details | Verification |
-| :--- | :--- | :---: |
-| **Super AI Engineer** | Innovator Level — Season 5, 2025 | [![Verify](https://img.shields.io/badge/Verify-00DC82?style=flat-square)](./certificate/Super_AI_Engineer_ss5_2025.png) |
-| **นักพัฒนาระบบ (System Developer)** | สถาบันคุณวุฒิวิชาชีพ — สาขาอุตสาหกรรมดิจิทัล | [![Verify](https://img.shields.io/badge/Verify-00DC82?style=flat-square)](./certificate/สาขาวิชาชีพอุตสาหกรรมดิจิทัล%20อาชีพนักพัฒนาระบบ.pdf) |
-| **8th BRICC Festival 2025** | Top 20 Teams | [![Verify](https://img.shields.io/badge/Verify-00DC82?style=flat-square)](./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf) |
-| **Fundamentals of Artificial Intelligence** | AI Foundations Certificate | [![Verify](https://img.shields.io/badge/Verify-00DC82?style=flat-square)](./certificate/Fundamentals%20of%20Artificial%20Intelligence.pdf) |
-| **AI Chatbot Architecture Design** | Phattharaborpit School AI Chatbot — System Design | `—` |
-
-</div>
+<table width="100%">
+  <tr>
+    <td style="padding: 15px;">
+      <h4>🏆 Credentials & Awards</h4>
+      <ul>
+        <li>
+          <strong>Super AI Engineer Season 5</strong> &nbsp;&nbsp; 
+          <a href="./certificate/Super_AI_Engineer_ss5_2025.png"><img src="https://img.shields.io/badge/Verify-00DC82?style=flat-square" alt="Verify" valign="middle"/></a>
+          <br/>
+          <small>Innovator Level — Season 5, 2025 | <em>Super AI Engineer Development Program</em></small>
+        </li>
+        <br/>
+        <li>
+          <strong>นักพัฒนาระบบ (System Developer)</strong> &nbsp;&nbsp; 
+          <a href="./certificate/สาขาวิชาชีพอุตสาหกรรมดิจิทัล%20อาชีพนักพัฒนาระบบ.pdf"><img src="https://img.shields.io/badge/Verify-00DC82?style=flat-square" alt="Verify" valign="middle"/></a>
+          <br/>
+          <small>สถาบันคุณวุฒิวิชาชีพ — สาขาอุตสาหกรรมดิจิทัล</small>
+        </li>
+        <br/>
+        <li>
+          <strong>8th BRICC Festival 2025</strong> &nbsp;&nbsp; 
+          <a href="./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf"><img src="https://img.shields.io/badge/Verify-00DC82?style=flat-square" alt="Verify" valign="middle"/></a>
+          <br/>
+          <small>Top 20 Teams — Buriram Rajabhat University</small>
+        </li>
+        <br/>
+        <li>
+          <strong>Fundamentals of Artificial Intelligence</strong> &nbsp;&nbsp; 
+          <a href="./certificate/Fundamentals%20of%20Artificial%20Intelligence.pdf"><img src="https://img.shields.io/badge/Verify-00DC82?style=flat-square" alt="Verify" valign="middle"/></a>
+          <br/>
+          <small>AI Foundations Certificate</small>
+        </li>
+        <br/>
+        <li>
+          <strong>AI Chatbot Architecture Design</strong>
+          <br/>
+          <small>Phattharaborpit School AI Chatbot — System Design</small>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
