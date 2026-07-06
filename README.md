@@ -1,19 +1,417 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:161b22,60:1a3a2a,100:00DC82&height=260&section=header&text=Chaiyakorn&fontSize=62&fontColor=00DC82&fontAlignY=38&desc=Full-Stack%20Developer%20%20%C2%B7%20%20AI%20Engineer%20%20%C2%B7%20%20System%20Architect&descSize=15&descAlignY=58&descColor=8b949e&stroke=00DC82&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0ea5e9&height=1&section=header" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1500&color=00DC82&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=%E2%94%8C%E2%94%80+jack%40dev+~+%24+cat+status.log;%E2%94%94%E2%94%80+Building+AI-powered+web+apps+%7C+Open+to+opportunities" alt="Typing SVG" />
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║    ░█████╗░██╗░░██╗░█████╗░██╗██╗░░░██╗░█████╗░██╗░░██╗░█████╗░██████╗ ║
+║    ██╔══██╗██║░░██║██╔══██╗██║╚██╗░██╔╝██╔══██╗██║░██╔╝██╔══██╗██╔══██╗║
+║    ██║░░╚═╝███████║███████║██║░╚████╔╝░██║░░██║█████═╝░██║░░██║██████╔╝║
+║    ██║░░██╗██╔══██║██╔══██║██║░░╚██╔╝░░██║░░██║██╔═██╗░██║░░██║██╔══██╗║
+║    ╚█████╔╝██║░░██║██║░░██║██║░░░██║░░░╚█████╔╝██║░╚██╗╚█████╔╝██║░░██║║
+║    ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝║
+║                                                                        ║
+║              FULL-STACK DEVELOPER  //  AI ENGINEER  //  v4.0           ║
+║                                                                        ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=16&duration=2500&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=%5BSYS%5D+Initializing+developer+profile...;%5B+OK+%5D+All+systems+operational." alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/AlmxndBL">
-  <img src="https://img.shields.io/badge/GITHUB-AlmxndBL-00DC82?style=flat-square&logo=github&logoColor=00DC82&labelColor=0d1117&color=161b22" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=AlmxndBL&label=PROFILE+VIEWS&color=161b22&style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/STATUS-Open_to_Work-00DC82?style=flat-square&labelColor=0d1117&color=0d3320" />
-<img src="https://img.shields.io/badge/LOCATION-Thailand-161b22?style=flat-square&labelColor=0d1117" />
+![Status](https://img.shields.io/badge/SYS-ONLINE-0ea5e9?style=for-the-badge&labelColor=0a0e1a)
+![Build](https://img.shields.io/badge/BUILD-PASSING-0ea5e9?style=for-the-badge&labelColor=0a0e1a)
+![Version](https://img.shields.io/badge/v4.0-STABLE-6366f1?style=for-the-badge&labelColor=0a0e1a)
+![Uptime](https://img.shields.io/badge/UPTIME-99.9%25-22d3ee?style=for-the-badge&labelColor=0a0e1a)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/%20-0a0e1a?style=for-the-badge" height="1"/>
+
+```
+[ SECTION :: IDENTITY ]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+</div>
+
+```js
+/**
+ * @author  Chaiyakorn (Jack)
+ * @version 4.0.0
+ * @since   2026
+ */
+
+class Developer {
+
+  #profile = {
+    name:      "Chaiyakorn",
+    alias:     "Jack",
+    role:      "Full-Stack Developer & AI Engineer",
+    education: "Buriram Rajabhat University — Computer Science, Year 4",
+    email:     "chaiyakorn.y04@gmail.com",
+  };
+
+  #capabilities = {
+    frontend:  ["Vue.js", "Nuxt.js", "Angular", "React Native", "Tailwind CSS"],
+    backend:   ["Node.js", "Express.js", ".NET 8", "Bun"],
+    ai:        ["RAG", "NLP", "PyTorch", "AI Agents"],
+    database:  ["PostgreSQL", "SQLite", "Prisma", "EF Core"],
+  };
+
+  async build(idea) {
+    const solution = await this.architect(idea);
+    return solution.deploy();   // ship it.
+  }
+}
+```
+
+---
+
+<div align="center">
+
+```
+[ SECTION :: TECH STACK ]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="170">
+<br/>
+<img src="https://skillicons.dev/icons?i=cs" width="40" alt="C#"/>
+<br/><br/>
+<sub><b>C#</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="170">
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++"/>
+<br/><br/>
+<sub><b>C++</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="170">
+<br/>
+<img src="https://skillicons.dev/icons?i=py" width="40" alt="Python"/>
+<br/><br/>
+<sub><b>Python</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="170">
+<br/>
+<img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript"/>
+<br/><br/>
+<sub><b>JavaScript</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="170">
+<br/>
+<img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript"/>
+<br/><br/>
+<sub><b>TypeScript</b></sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML"/>
+<br/><br/>
+<sub><b>HTML</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=css" width="36" alt="CSS"/>
+<br/><br/>
+<sub><b>CSS</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=vue" width="36" alt="Vue.js"/>
+<br/><br/>
+<sub><b>Vue.js</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=nuxtjs" width="36" alt="Nuxt"/>
+<br/><br/>
+<sub><b>Nuxt.js</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=angular" width="36" alt="Angular"/>
+<br/><br/>
+<sub><b>Angular</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=react" width="36" alt="React Native"/>
+<br/><br/>
+<sub><b>React Native</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="36" alt="Tailwind"/>
+<br/><br/>
+<sub><b>Tailwind</b></sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="36" alt="Node.js"/>
+<br/><br/>
+<sub><b>Node.js</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=express" width="36" alt="Express"/>
+<br/><br/>
+<sub><b>Express</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=bun" width="36" alt="Bun"/>
+<br/><br/>
+<sub><b>Bun</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=dotnet" width="36" alt=".NET"/>
+<br/><br/>
+<sub><b>.NET 8</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres" width="36" alt="PostgreSQL"/>
+<br/><br/>
+<sub><b>PostgreSQL</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=sqlite" width="36" alt="SQLite"/>
+<br/><br/>
+<sub><b>SQLite</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=prisma" width="36" alt="Prisma"/>
+<br/><br/>
+<sub><b>Prisma</b></sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="36" alt="PyTorch"/>
+<br/><br/>
+<sub><b>PyTorch</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=git" width="36" alt="Git"/>
+<br/><br/>
+<sub><b>Git</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub"/>
+<br/><br/>
+<sub><b>GitHub</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=docker" width="36" alt="Docker"/>
+<br/><br/>
+<sub><b>Docker</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=figma" width="36" alt="Figma"/>
+<br/><br/>
+<sub><b>Figma</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://skillicons.dev/icons?i=postman" width="36" alt="Postman"/>
+<br/><br/>
+<sub><b>Postman</b></sub>
+<br/><br/>
+</td>
+<td align="center" width="120">
+<br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28" alt="Jupyter"/>
+<br/><br/>
+<sub><b>Jupyter</b></sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ SECTION :: DEPLOYMENTS ]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+<br/>
+
+<details>
+<summary>&nbsp;<b>SaiJai Phareab</b>&nbsp;&nbsp;—&nbsp;&nbsp;Laundry Management Platform&nbsp;&nbsp;&nbsp;&nbsp;<code>SENIOR PROJECT</code>&nbsp;&nbsp;<img src="https://img.shields.io/badge/ONGOING-0ea5e9?style=flat-square" height="16"/></summary>
+<br/>
+
+> Full-stack management platform for laundry services with smart queue automation and AI-powered customer support.
+
+| Module | Description |
+|:---|:---|
+| `queue-engine` | Automated queue-sorting with priority scheduling |
+| `tracking` | Real-time order status & notifications |
+| `ai-support` | AI chatbot for customer service |
+
+```
+STACK  >>  Nuxt.js  /  TypeScript  /  PostgreSQL  /  Prisma
+```
+
+</details>
+
+<details>
+<summary>&nbsp;<b>AI Agent System CLI</b>&nbsp;&nbsp;—&nbsp;&nbsp;Local-First AI Coding Agent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/ACTIVE-6366f1?style=flat-square" height="16"/>&nbsp;&nbsp;<a href="https://github.com/AlmxndBL/Ai-agent-system-CLI"><img src="https://img.shields.io/badge/SOURCE-0a0e1a?style=flat-square&logo=github&logoColor=0ea5e9" height="16"/></a></summary>
+<br/>
+
+> Local-first AI coding agent — remembers work across sessions, stores knowledge as an Obsidian graph, and receives commands via Discord/Telegram.
+
+| Module | Description |
+|:---|:---|
+| `providers` | Multi-provider: Claude, Gemini, DeepSeek, Hermes |
+| `security` | TOCTOU write-escape guard & HMAC-SHA256 audit chain |
+| `auth` | TOTP brute-force lockout |
+
+```
+STACK  >>  TypeScript  /  Discord Bot  /  Telegram  /  Obsidian
+```
+
+</details>
+
+<details>
+<summary>&nbsp;<b>Esport Draw</b>&nbsp;&nbsp;—&nbsp;&nbsp;Tournament Bracket Manager&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/DEPLOYED-22d3ee?style=flat-square" height="16"/>&nbsp;&nbsp;<a href="https://esport-draw.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-0a0e1a?style=flat-square&logo=vercel&logoColor=0ea5e9" height="16"/></a>&nbsp;&nbsp;<a href="https://github.com/AlmxndBL/esport-draw"><img src="https://img.shields.io/badge/SOURCE-0a0e1a?style=flat-square&logo=github&logoColor=0ea5e9" height="16"/></a></summary>
+<br/>
+
+> Tournament wheel-draw & bracket management — group stage round-robin to standings to single-elimination knockout with drag-drop board.
+
+| Module | Description |
+|:---|:---|
+| `wheel` | Animated spin wheel for randomized team draw |
+| `groups` | Auto-generate group stage & bracket |
+| `board` | Live standings with drag-drop override |
+
+```
+STACK  >>  Nuxt.js  /  Vue  /  TypeScript
+```
+
+</details>
+
+<details>
+<summary>&nbsp;<b>Mini Leave Management</b>&nbsp;&nbsp;—&nbsp;&nbsp;Enterprise HR System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/COMPLETE-818cf8?style=flat-square" height="16"/>&nbsp;&nbsp;<a href="https://github.com/AlmxndBL/Mini-Leave-Management-System"><img src="https://img.shields.io/badge/SOURCE-0a0e1a?style=flat-square&logo=github&logoColor=0ea5e9" height="16"/></a></summary>
+<br/>
+
+> Enterprise-grade leave management system with JWT auth, RBAC, weekday-only leave calculation, and atomic DB transactions.
+
+| Module | Description |
+|:---|:---|
+| `auth` | JWT authentication & Role-Based Access Control |
+| `engine` | Weekday-only leave calculation |
+| `data` | Atomic approval transactions via EF Core |
+
+```
+STACK  >>  C#  /  .NET 8  /  Angular 18  /  SQLite  /  EF Core
+```
+
+</details>
+
+<details>
+<summary>&nbsp;<b>Mental Health AI</b>&nbsp;&nbsp;—&nbsp;&nbsp;Empathetic Screening Chatbot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/TOP_20-0ea5e9?style=flat-square" height="16"/></summary>
+<br/>
+
+> An empathetic AI chatbot for initial mental-health screening, trained on conversational data from online communities.
+
+| Module | Description |
+|:---|:---|
+| `model` | Depression screening via NLP conversation |
+| `response` | Context-aware empathetic replies |
+| `pipeline` | Community data-processing pipeline |
+
+```
+STACK  >>  AI  /  NLP  /  Chatbot
+```
+
+</details>
+
+<details>
+<summary>&nbsp;<b>Knapsack Solver</b>&nbsp;&nbsp;—&nbsp;&nbsp;Algorithm Visualizer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/COMPLETE-818cf8?style=flat-square" height="16"/>&nbsp;&nbsp;<a href="https://github.com/AlmxndBL/KnapsackProject"><img src="https://img.shields.io/badge/SOURCE-0a0e1a?style=flat-square&logo=github&logoColor=0ea5e9" height="16"/></a></summary>
+<br/>
+
+> Interactive visualizer for classic algorithm problems — implements both Fractional (greedy) and 0/1 (dynamic programming) Knapsack solvers.
+
+| Module | Description |
+|:---|:---|
+| `greedy` | Fractional knapsack solver |
+| `dp` | 0/1 DP table step-by-step visualization |
+| `compare` | Side-by-side algorithm comparison |
+
+```
+STACK  >>  Nuxt.js  /  Vue  /  TypeScript
+```
+
+</details>
+
+---
+
+<div align="center">
+
+```
+[ SECTION :: RESEARCH ]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
@@ -23,440 +421,123 @@
 <tr>
 <td>
 
-## `$ whoami`
-
-```ts
-const developer = {
-  name:      "Chaiyakorn (Jack)",
-  role:      "Full-Stack Developer & AI Engineer",
-  education: "Buriram Rajabhat University — Computer Science, Year 4",
-  focus:     ["Web Applications", "AI Integration", "System Design"],
-  contact:   "chaiyakorn.y04@gmail.com",
-} as const;
-```
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="25%" align="center"><b><code>Frontend</code></b></td>
-<td width="25%" align="center"><b><code>AI / ML</code></b></td>
-<td width="25%" align="center"><b><code>Backend</code></b></td>
-<td width="25%" align="center"><b><code>Learning</code></b></td>
-</tr>
-<tr>
-<td align="center"><sub>High-performance web apps<br/>with Vue, Nuxt & Angular</sub></td>
-<td align="center"><sub>RAG pipelines, NLP models<br/>& AI agents in production</sub></td>
-<td align="center"><sub>Scalable APIs with<br/>Node.js, Express & .NET 8</sub></td>
-<td align="center"><sub>Going deeper into<br/>system design & AI eng</sub></td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
-
-## `$ neofetch --stack`
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<br/>
-
-**`LANGUAGES`**
-
-<br/>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=fff)
-
-<br/>
-
-**`FRONTEND`**
-
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=fff)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
-
-<br/>
-
-**`BACKEND`**
-
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
-![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=fff)
-![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-
-<br/><br/>
-
-</td>
-<td align="center" width="50%">
-
-<br/>
-
-**`DATABASE & ORM`**
-
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-
-<br/>
-
-**`AI & AUTOMATION`**
-
-<br/>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)
-![NLP](https://img.shields.io/badge/NLP-4FC08D?style=flat-square&logo=spacy&logoColor=fff)
-![RAG](https://img.shields.io/badge/RAG-00DC82?style=flat-square&logo=openai&logoColor=fff)
-
-<br/>
-
-**`TOOLS & DEVOPS`**
-
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=fff)
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## `$ ls -la ./projects/`
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**`SaiJai Phareab`** — Laundry Platform
-
-![Status](https://img.shields.io/badge/SENIOR_PROJECT-ONGOING-00DC82?style=flat-square&labelColor=0d1117)
-
-</div>
-
-Full-stack management platform for laundry services with smart queue automation and AI-powered customer support.
-
-```
- src/
- ├── queue/     → Automated queue-sorting engine
- ├── tracking/  → Real-time order tracking
- └── chatbot/   → AI customer service bot
-```
-
-<div align="center">
-
-`Nuxt.js` · `TypeScript` · `PostgreSQL` · `Prisma`
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**`AI Agent System CLI`**
-
-![Status](https://img.shields.io/badge/LOCAL--FIRST_AI-ACTIVE-00DC82?style=flat-square&labelColor=0d1117)
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=8b949e)](https://github.com/AlmxndBL/Ai-agent-system-CLI)
-
-</div>
-
-Local-first AI coding agent — remembers work across sessions, stores knowledge as an Obsidian graph.
-
-```
- src/
- ├── providers/ → Claude, Gemini, DeepSeek, Hermes
- ├── security/  → HMAC-SHA256 audit chain
- └── auth/      → TOTP brute-force lockout
-```
-
-<div align="center">
-
-`TypeScript` · `Discord Bot` · `Telegram` · `Obsidian`
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**`Esport Draw`** — Tournament Manager
-
-![Status](https://img.shields.io/badge/DEPLOYED-LIVE-00DC82?style=flat-square&labelColor=0d1117)
-[![Live](https://img.shields.io/badge/DEMO-00DC82?style=flat-square&logo=vercel&logoColor=fff)](https://esport-draw.vercel.app)
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=8b949e)](https://github.com/AlmxndBL/esport-draw)
-
-</div>
-
-Tournament wheel-draw & bracket management — round-robin to standings to single-elimination knockout.
-
-```
- src/
- ├── wheel/     → Animated spin wheel for team draw
- ├── groups/    → Auto-generate group stage & bracket
- └── board/     → Live standings with drag-drop
-```
-
-<div align="center">
-
-`Nuxt.js` · `Vue` · `TypeScript`
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**`Mini Leave Management`** — Enterprise System
-
-![Status](https://img.shields.io/badge/FULL--STACK-COMPLETE-4FC08D?style=flat-square&labelColor=0d1117)
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=8b949e)](https://github.com/AlmxndBL/Mini-Leave-Management-System)
-
-</div>
-
-Enterprise-grade leave management with JWT auth, RBAC, and atomic database transactions.
-
-```
- src/
- ├── auth/      → JWT & Role-Based Access Control
- ├── engine/    → Weekday-only leave calculation
- └── data/      → Atomic transactions via EF Core
-```
-
-<div align="center">
-
-`C#` · `.NET 8` · `Angular 18` · `SQLite` · `EF Core`
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**`Mental Health AI`** — Chatbot
-
-![Status](https://img.shields.io/badge/BRICC_2025-TOP_20-4FC08D?style=flat-square&labelColor=0d1117)
-
-</div>
-
-Empathetic AI chatbot for initial mental-health screening, trained on community conversational data.
-
-```
- src/
- ├── model/     → Depression screening via NLP
- ├── response/  → Context-aware empathetic replies
- └── pipeline/  → Community data processing
-```
-
-<div align="center">
-
-`AI` · `NLP` · `Chatbot`
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**`Knapsack Solver`** — Algorithm Visualizer
-
-![Status](https://img.shields.io/badge/INTERACTIVE-VISUALIZER-00DC82?style=flat-square&labelColor=0d1117)
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=8b949e)](https://github.com/AlmxndBL/KnapsackProject)
-
-</div>
-
-Interactive visualizer — Fractional (greedy) and 0/1 (dynamic programming) Knapsack solvers.
-
-```
- src/
- ├── greedy/    → Fractional knapsack solver
- ├── dp/        → 0/1 DP table visualization
- └── compare/   → Side-by-side comparison
-```
-
-<div align="center">
-
-`Nuxt.js` · `Vue` · `TypeScript`
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## `$ cat research.log`
-
-</div>
-
-<table>
-<tr>
-<td>
 
 ### AI Image-to-Audio Description for the Visually Impaired
 
-<div align="center">
-
-![Project](https://img.shields.io/badge/NSC-ACADEMIC_PROJECT-00DC82?style=flat-square&labelColor=0d1117)
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=8b949e)](https://github.com/AlmxndBL/APITAD-Project)
+![Project](https://img.shields.io/badge/NSC-ACADEMIC_PROJECT-0ea5e9?style=flat-square&labelColor=0a0e1a)
+&nbsp;
+[![Repo](https://img.shields.io/badge/SOURCE_CODE-0a0e1a?style=flat-square&logo=github&logoColor=0ea5e9)](https://github.com/AlmxndBL/APITAD-Project)
 
 </div>
 
 > An automated image-captioning system helping visually impaired users understand their surroundings — localized for Thai culture and environments.
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  Architecture  │  ConvNeXt + BAM (encoder)                         │
-│                │  LSTM with Additive Attention (decoder)            │
-├────────────────┼───────────────────────────────────────────────────-┤
-│  Inspiration   │  "Attention Is All You Need"                      │
-├────────────────┼───────────────────────────────────────────────────-┤
-│  Localization  │  Thai food, culture & environment datasets        │
-├────────────────┼───────────────────────────────────────────────────-┤
-│  Stack         │  React Native · Bun · Python · PyTorch            │
-└─────────────────────────────────────────────────────────────────────┘
+ARCHITECTURE   ConvNeXt + BAM (encoder) ──► LSTM + Additive Attention (decoder)
+INSPIRATION    "Attention Is All You Need" — Vaswani et al.
+LOCALIZATION   Trained on Thai food, culture & environment datasets
+STACK          React Native  ·  Bun  ·  Python  ·  PyTorch
 ```
 
 </td>
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+```
+[ SECTION :: CREDENTIALS ]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 <br/>
 
-<div align="center">
-
-## `$ ls certificates/`
-
-</div>
-
-<div align="center">
-
 <a href="./certificate/Super_AI_Engineer_ss5_2025.png">
-  <img src="./certificate/Super_AI_Engineer_ss5_2025.png" alt="Super AI Engineer — Innovator 2025" width="400"/>
+  <img src="./certificate/Super_AI_Engineer_ss5_2025.png" alt="Super AI Engineer — Innovator 2025" width="380"/>
 </a>
 
 <br/><br/>
 
-**`Super AI Engineer Development Program — Innovator 2025`**
+```
+SUPER AI ENGINEER DEVELOPMENT PROGRAM  ──  INNOVATOR 2025
+```
 
 </div>
 
 <br/>
 
-| | Credential | Detail | Ref |
-|:---:|---|---|:---:|
-| `01` | **Super AI Engineer** | Innovator — Season 5, 2025 | [view](./certificate/Super_AI_Engineer_ss5_2025.png) |
-| `02` | **Professional Qualification** | System Developer — Digital Industry | [view](./certificate/สาขาวิชาชีพอุตสาหกรรมดิจิทัล%20อาชีพนักพัฒนาระบบ.pdf) |
-| `03` | **8th BRICC Festival 2025** | Top 20 Teams | [view](./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf) |
-| `04` | **Fundamentals of AI** | AI Foundations Certificate | [view](./certificate/Fundamentals%20of%20Artificial%20Intelligence.pdf) |
-| `05` | **AI Architecture** | Phattharaborpit School Chatbot — System Design | — |
-
-<br/>
-
-<div align="center">
-
-## `$ git log --graph --stat`
-
-<br/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=AlmxndBL&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00DC82&icon_color=238636&text_color=8b949e&ring_color=00DC82&include_all_commits=true&count_private=true&cache_seconds=1800" alt="github stats" />
-&nbsp;&nbsp;
-<img height="155" src="https://streak-stats.demolab.com/?user=AlmxndBL&hide_border=true&background=0d1117&ring=00DC82&fire=00DC82&currStreakLabel=00DC82&stroke=21262d&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e&dayLabels=6e7681" alt="github streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmxndBL&layout=compact&hide_border=true&bg_color=0d1117&title_color=00DC82&text_color=8b949e&langs_count=8&cache_seconds=1800" alt="top languages" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlmxndBL&bg_color=0d1117&color=00DC82&line=238636&point=00DC82&area_color=0d3320&area=true&hide_border=true&custom_title=%20" width="100%" alt="activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlmxndBL&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="trophies"/>
-
-</div>
-
-<br/>
+| `ID` | Credential | Detail | Ref |
+|:---:|:---|:---|:---:|
+| `#1` | **Super AI Engineer** | Innovator — Season 5, 2025 | [view](./certificate/Super_AI_Engineer_ss5_2025.png) |
+| `#2` | **Professional Qualification** | System Developer — Digital Industry | [view](./certificate/สาขาวิชาชีพอุตสาหกรรมดิจิทัล%20อาชีพนักพัฒนาระบบ.pdf) |
+| `#3` | **8th BRICC Festival** | Top 20 Teams — 2025 | [view](./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf) |
+| `#4` | **Fundamentals of AI** | AI Foundations Certificate | [view](./certificate/Fundamentals%20of%20Artificial%20Intelligence.pdf) |
+| `#5` | **AI Architecture** | Phattharaborpit School Chatbot — System Design | `—` |
 
 ---
 
 <div align="center">
 
+```
+[ SECTION :: ANALYTICS ]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 <br/>
 
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=AlmxndBL&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=94a3b8&ring_color=0ea5e9&include_all_commits=true&count_private=true&cache_seconds=1800" alt="stats" />
+&nbsp;&nbsp;
+<img height="155" src="https://streak-stats.demolab.com/?user=AlmxndBL&hide_border=true&background=0d1117&ring=0ea5e9&fire=6366f1&currStreakLabel=0ea5e9&stroke=1e293b&sideLabels=94a3b8&dates=64748b&currStreakNum=94a3b8&sideNums=94a3b8&dayLabels=64748b" alt="streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmxndBL&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8&cache_seconds=1800" alt="languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlmxndBL&bg_color=0d1117&color=0ea5e9&line=6366f1&point=22d3ee&area_color=0c2d48&area=true&hide_border=true&custom_title=%20" width="100%" alt="activity" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlmxndBL&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
 ```
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   $ echo "Let's build something together."           │
-│                                                      │
-│   chaiyakorn.y04@gmail.com                           │
-│   github.com/AlmxndBL                                │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   >> CONNECT                                             ║
+║                                                          ║
+║   mail    chaiyakorn.y04@gmail.com                       ║
+║   github  github.com/AlmxndBL                           ║
+║                                                          ║
+║   "Build things that help people                         ║
+║    — make them fast, make them kind."                    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
 <a href="mailto:chaiyakorn.y04@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-chaiyakorn.y04-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MAIL-chaiyakorn.y04-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e1a" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AlmxndBL">
-  <img src="https://img.shields.io/badge/GITHUB-AlmxndBL-00DC82?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GITHUB-AlmxndBL-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e1a" />
 </a>
 
 <br/><br/>
 
-<sub><i>Build things that help people — make them fast, make them kind.</i></sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,50:0c2d48,100:0ea5e9&height=2&section=footer" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00DC82&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=AlmxndBL&label=VISITORS&color=0ea5e9&style=flat-square&labelColor=0a0e1a" />
 
 </div>
