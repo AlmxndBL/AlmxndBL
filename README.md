@@ -25,9 +25,8 @@ const jack = {
   school:  "Buriram Rajabhat University — CS, Year 4",
   stack:   ["Vue.js", "Nuxt.js", "TypeScript", "Node.js", "Angular", ".NET 8"],
   ai:      ["RAG", "AI Agents", "n8n Automation", "PyTorch", "NLP"],
-  tools:   ["Discord Bot", "Telegram Gateway", "Obsidian Knowledge Graph"],
   status:  "Seeking a Full-Stack Developer internship",
-  contact: "660112230006@bru.ac.th",
+  contact: "chaiyakorn.y04@gmail,com",
 };
 ```
 
@@ -66,8 +65,6 @@ const jack = {
 **Tools & Integrations**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
 
@@ -231,6 +228,7 @@ An automated image-captioning system that helps visually impaired users understa
 | Super AI Engineer | Innovator — Season 5, 2025 | [Certificate](./certificate/Super_AI_Engineer_ss5_2025.png) |
 | สถาบันคุณวุฒิวิชาชีพ | นักพัฒนาระบบ — สาขาอุตสาหกรรมดิจิทัล | [PDF](./certificate/สาขาวิชาชีพอุตสาหกรรมดิจิทัล%20อาชีพนักพัฒนาระบบ.pdf) |
 | 8th BRICC Festival 2025 | Top 20 Teams | [PDF](./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf) |
+| Fundamentals of Artificial Intelligence | AI Foundations Certificate | [PDF](./certificate/Fundamentals%20of%20Artificial%20Intelligence.pdf) |
 | AI Architecture | Phattharaborpit School AI Chatbot — System Design | — |
 
 <br/>
