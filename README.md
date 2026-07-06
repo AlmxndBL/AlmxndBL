@@ -26,7 +26,7 @@ const jack = {
   stack:   ["Vue.js", "Nuxt.js", "TypeScript", "Node.js", "Angular", ".NET 8"],
   ai:      ["RAG", "AI Agents", "n8n Automation", "PyTorch", "NLP"],
   status:  "Seeking a Full-Stack Developer internship",
-  contact: "chaiyakorn.y04@gmail,com",
+  contact: "chaiyakorn.y04@gmail.com",
 };
 ```
 
@@ -74,10 +74,10 @@ const jack = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlmxndBL&show_icons=true&hide_border=true&bg_color=00000000&title_color=00DC82&icon_color=4FC08D&text_color=808080&include_all_commits=true&count_private=true" alt="github stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlmxndBL&hide_border=true&background=00000000&ring=00DC82&fire=00DC82&currStreakLabel=00DC82&stroke=4FC08D&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080" alt="github streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlmxndBL&show_icons=true&hide_border=true&bg_color=00000000&title_color=00DC82&icon_color=4FC08D&text_color=808080&include_all_commits=true&count_private=true&cache_seconds=1800" alt="github stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=AlmxndBL&hide_border=true&background=00000000&ring=00DC82&fire=00DC82&currStreakLabel=00DC82&stroke=4FC08D&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080" alt="github streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmxndBL&layout=compact&hide_border=true&bg_color=00000000&title_color=00DC82&text_color=808080&langs_count=8" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmxndBL&layout=compact&hide_border=true&bg_color=00000000&title_color=00DC82&text_color=808080&langs_count=8&cache_seconds=1800" alt="top languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlmxndBL&bg_color=00000000&color=00DC82&line=4FC08D&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
 
@@ -237,8 +237,8 @@ An automated image-captioning system that helps visually impaired users understa
 
 ## Let's Connect
 
-<a href="mailto:660112230006@bru.ac.th">
-  <img src="https://img.shields.io/badge/Email-660112230006@bru.ac.th-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+<a href="mailto:chaiyakorn.y04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-chaiyakorn.y04@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" />
 </a>
 &nbsp;
 <a href="https://github.com/AlmxndBL">
