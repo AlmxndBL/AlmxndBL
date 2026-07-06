@@ -37,42 +37,27 @@ const dev = {
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- Languages Block -->
-    <td width="380" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=35&text=LANGUAGES&fontSize=14&fontColor=38bdf8" width="100%"/>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts&theme=dark" alt="Languages" />
-      <br/><br/>
-    </td>
-    <td width="20"></td>
-    <!-- Frontend Block -->
-    <td width="380" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=35&text=FRONTEND&fontSize=14&fontColor=38bdf8" width="100%"/>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,vue,nuxt,angular,react,tailwind&theme=dark" alt="Frontend" />
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <!-- Backend & Database Block -->
-    <td width="380" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=35&text=BACKEND%20%26%20DATABASE&fontSize=14&fontColor=38bdf8" width="100%"/>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,bun,dotnet,postgres,sqlite,prisma&theme=dark" alt="Backend & DB" />
-      <br/><br/>
-    </td>
-    <td width="20"></td>
-    <!-- AI & Tools Block -->
-    <td width="380" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=35&text=AI%20%26%20DEVELOPMENT%20TOOLS&fontSize=14&fontColor=38bdf8" width="100%"/>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=pytorch,git,github,docker,figma,postman&theme=dark" alt="AI & Tools" />
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+**LANGUAGES**
+<br/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts&theme=dark" alt="Languages" />
+
+<br/><br/>
+
+**FRONTEND**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,vue,nuxt,angular,react,tailwind&theme=dark" alt="Frontend" />
+
+<br/><br/>
+
+**BACKEND & DATABASE**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,dotnet,postgres,sqlite,prisma&theme=dark" alt="Backend & DB" />
+
+<br/><br/>
+
+**AI & DEVELOPMENT TOOLS**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,git,github,docker,figma,postman&theme=dark" alt="AI & Tools" />
 
 </div>
 
