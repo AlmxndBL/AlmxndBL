@@ -19,7 +19,7 @@
 I'm **Chaiyakorn**, a 4th-year Computer Science student who turns ideas into fast, polished web apps — and brings AI into them where it genuinely helps people.
 
 ```ts
-const jack = {
+const Chaiyakorn = {
   name:    "Chaiyakorn (Jack)",
   role:    "Full-Stack Developer",
   school:  "Buriram Rajabhat University — CS, Year 4",
