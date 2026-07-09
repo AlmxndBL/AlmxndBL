@@ -205,10 +205,8 @@ const Chaiyakorn = {
   *สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน) — สาขาวิชาชีพอุตสาหกรรมดิจิทัล*
 - 🏅 **8th BRICC Festival 2025** (Top 20 Teams) &nbsp;&middot;&nbsp; [Verify Credential](./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf)
   *Buriram Rajabhat University*
-- 🎓 **Fundamentals of Artificial Intelligence** &nbsp;&middot;&nbsp; [Verify Credential](./certificate/Fundamentals%20of%20Artificial%20Intelligence.pdf)
-  *AI Foundations Certificate*
-- 🤖 **AI Chatbot Architecture Design**
-  *Phattharaborpit School AI Chatbot — System Design*
+
+> 📂 *Explore all verification documents and certificates in the [certificate](./certificate) directory.*
 
 <br/>
 
