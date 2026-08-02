@@ -130,10 +130,11 @@ const Chaiyakorn = {
   <tr>
     <!-- Project 1 -->
     <td width="50%" valign="top">
-      <h3>🪵 Demo Log Management &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Complete-6366F1?style=flat-square" alt="Complete" valign="middle"/></h3>
+      <h3>🪵 Demo Log Management &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Live-00DC82?style=flat-square" alt="Live" valign="middle"/></h3>
       <p>Full-stack log management system with multi-tenancy, RBAC, log normalization/ingestion pipeline, and a real-time dashboard. Containerized with Docker Compose and covered by Vitest integration tests.</p>
       <sub><b>Tech Stack:</b> Nuxt 4, Vue 3, TypeScript, PostgreSQL, Prisma, Docker, Vitest</sub>
       <br/><br/>
+      <a href="https://demo-log-management.vercel.app/"><img src="https://img.shields.io/badge/Demo-Live%20Demo-06B6D4?style=flat-square" alt="Live Demo"/></a> &nbsp;
       <a href="https://github.com/AlmxndBL/full-stack_intern_test"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
     <!-- Project 2 -->
