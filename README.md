@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=210&section=header&text=Chaiyakorn%20(Jack)&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20·%20Vue%20%26%20Nuxt%20·%20.NET%208%20·%20Node.js&descSize=18&descAlignY=56&descColor=e0e7ff](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=210&section=header&text=Chaiyakorn%20(Jack)&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Vue%20and%20Nuxt%20%C2%B7%20.NET%208%20%C2%B7%20Node.js&descSize=18&descAlignY=56&descColor=e0e7ff)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=210&section=header&text=Chaiyakorn%20(Jack)&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Vue%20%26amp%3B%20Nuxt%20%C2%B7%20.NET%208%20%C2%B7%20Node.js&descSize=18&descAlignY=56&descColor=e0e7ff" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=700&height=46&lines=Full-Stack+Developer+%E2%80%94+Vue+%26+Nuxt+%26+Angular;Backend+Specialist+%E2%80%94+.NET+8+%26+Node.js;Database+Design+%E2%80%94+PostgreSQL+%26+Prisma;System+Developer+%E2%80%94+TPQI+Certified+%F0%9F%8F%85;Open+to+Full-Stack+Internship+Opportunities" alt="Typing SVG" />
 
