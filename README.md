@@ -101,32 +101,7 @@ const Chaiyakorn = {
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/AlmxndBL">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlmxndBL&show_icons=true&hide_border=true&bg_color=00000000&title_color=818CF8&icon_color=6366F1&text_color=808080&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/AlmxndBL">
-    <img src="https://streak-stats.demolab.com/?user=AlmxndBL&hide_border=true&background=00000000&ring=818CF8&fire=6366F1&currStreakLabel=818CF8&stroke=6366F1&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080" height="165" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/AlmxndBL">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlmxndBL&layout=compact&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=808080&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/AlmxndBL">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlmxndBL&bg_color=00000000&color=818CF8&line=6366F1&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
-</div>
 
 ## 🚀 Featured Projects
 
