@@ -180,29 +180,27 @@ const Chaiyakorn = {
     </td>
     <!-- Project 6 -->
     <td width="50%" valign="top">
+      <h3>🤖 AI Agent System CLI &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-6366F1?style=flat-square" alt="Active" valign="middle"/></h3>
+      <p>Local-first developer productivity tool. An AI coding assistant with Obsidian graph memory, conversation context, and built-in security guardrails.</p>
+      <sub><b>Tech Stack:</b> TypeScript, Node.js, Obsidian</sub>
+      <br/><br/>
+      <a href="https://github.com/AlmxndBL/Ai-agent-system-CLI"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 🤖 Developer Productivity & AI Agent Systems
+## 🤖 Developer Productivity & AI Agent Framework
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🧠 Master Agent Skill Rules &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/></h3>
-      <p>Global rules & philosophy framework for AI coding agents (Antigravity, Cursor, Claude Code). Enforces Pragmatic Challenger persona and ADHD-friendly output.</p>
-      <sub><b>Category:</b> AI Agent Rules · AGENTS.md · System Prompting</sub>
+      <p>Global rules & philosophy framework for AI coding agents (Antigravity, Cursor, Claude Code). Enforces Pragmatic Challenger persona and ADHD-friendly high-density output.</p>
+      <sub><b>Category:</b> AI Agent Rules · AGENTS.md · System Prompting · Pragmatic Engineering</sub>
       <br/><br/>
       <a href="https://github.com/AlmxndBL/agent-skill"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Agent System CLI &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-6366F1?style=flat-square" alt="Active" valign="middle"/></h3>
-      <p>Local-first developer productivity tool. An AI coding assistant with Obsidian graph memory, conversation context, and built-in security guardrails.</p>
-      <sub><b>Category:</b> Local AI Agent · TypeScript · Node.js · Obsidian</sub>
-      <br/><br/>
-      <a href="https://github.com/AlmxndBL/Ai-agent-system-CLI"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
   </tr>
 </table>
