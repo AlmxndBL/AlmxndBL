@@ -194,14 +194,21 @@ const Chaiyakorn = {
       <a href="./certificate/Systems Developer Level 3.pdf"><img src="https://img.shields.io/badge/View-Certificate-6366F1?style=flat-square" alt="View Certificate"/></a>
     </td>
     <td width="50%" valign="top">
+      <h4>☁️ AWS Cloud Foundation Program</h4>
+      <p>AWS & ERT (The Enterprise Resources Training)<br/>
+      <i>Cloud Infrastructure · Core AWS Services · Cloud Architecture</i></p>
+      <sub>📅 3 July 2026</sub><br/><br/>
+      <a href="./certificate/AWS%20Cloud%20Foundation%20Program.pdf"><img src="https://img.shields.io/badge/View-Certificate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="View Certificate"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>⚙️ Software Development Concepts & Testing with Python</h4>
       <p>Professional Certificate — Coursera<br/>
       <i>Software Engineering · Testing · Python · Agile Practices</i></p>
       <sub>📅 July 2026 · Credential ID: <code>aan9ylqajs</code></sub><br/><br/>
       <a href="./certificate/Software Development Concepts and Testing with.pdf"><img src="https://img.shields.io/badge/View-Certificate-06B6D4?style=flat-square" alt="View Certificate"/></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>⚡ Generative AI in Software Development</h4>
       <p>Professional Certificate — Coursera<br/>
@@ -209,6 +216,8 @@ const Chaiyakorn = {
       <sub>📅 July 2026 · Credential ID: <code>mfcjcexhcx</code></sub><br/><br/>
       <a href="./certificate/Generative AI in Software Development.pdf"><img src="https://img.shields.io/badge/View-Certificate-818CF8?style=flat-square" alt="View Certificate"/></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🏆 Super AI Engineer Season 5 — Innovator Level</h4>
       <p>Super AI Engineer Development Program 2025<br/>
@@ -216,8 +225,6 @@ const Chaiyakorn = {
       <sub>📅 2025</sub><br/><br/>
       <a href="./certificate/Super_AI_Engineer_ss5_2025.png"><img src="https://img.shields.io/badge/View-Certificate-F59E0B?style=flat-square" alt="View Certificate"/></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🏅 8th BRICC National Festival 2025 — Top 20 Teams</h4>
       <p>Buriram Rajabhat University<br/>
@@ -225,14 +232,12 @@ const Chaiyakorn = {
       <sub>📅 14 กุมภาพันธ์ 2568</sub><br/><br/>
       <a href="./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf"><img src="https://img.shields.io/badge/View-Certificate-10B981?style=flat-square" alt="View Certificate"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h4>📂 All Certificates</h4>
-      <p>Explore all verification documents, professional credentials, and academic certificates in the certificate directory.</p>
-      <br/>
-      <a href="./certificate"><img src="https://img.shields.io/badge/Browse-All%20Certificates-6366F1?style=flat-square&logo=github" alt="Browse All"/></a>
-    </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="./certificate"><img src="https://img.shields.io/badge/Browse-All%20Certificates%20Directory-6366F1?style=flat-square&logo=github" alt="Browse All Certificates"/></a>
+</p>
 
 <br/>
 
