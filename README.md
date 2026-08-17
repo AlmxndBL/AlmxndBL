@@ -170,12 +170,19 @@ const Chaiyakorn = {
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h3>🧠 Master Agent Skill Rules &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/></h3>
-      <p>Global rules & philosophy framework for AI coding agents (Antigravity, Cursor, Claude Code). Enforces Pragmatic Challenger persona and ADHD-friendly high-density output.</p>
+      <p>3-Tier rules & behavioral framework for AI coding agents (Antigravity, Cursor, Claude Code). Enforces 6 engineering pillars, strict TypeScript, and Universal Definition of Done.</p>
       <sub><b>Category:</b> AI Agent Rules · AGENTS.md · System Prompting · Pragmatic Engineering</sub>
       <br/><br/>
       <a href="https://github.com/AlmxndBL/agent-skill"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ Nexus 2.0 &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/MCP-Enabled-818CF8?style=flat-square" alt="MCP" valign="middle"/></h3>
+      <p>Active Personal Engineering OS & Universal MCP Bridge. Features JIT context compilation, closed-loop memory logging via Git push, and automated code quality auditing (Nexus Doctor).</p>
+      <sub><b>Category:</b> MCP Server · Developer Memory · Git Automation · Context Engine</sub>
+      <br/><br/>
+      <a href="https://github.com/AlmxndBL/project-x-memory"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
   </tr>
 </table>
