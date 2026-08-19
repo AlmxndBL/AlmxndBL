@@ -175,7 +175,7 @@ const Chaiyakorn = {
       <p>Production-grade open-source rules & behavioral framework for AI coding agents (Antigravity, Cursor, Claude Code). Enforces Stack-Aware Memory Recall, 6 engineering pillars, strict TypeScript, and Universal Definition of Done.</p>
       <sub><b>Category:</b> Open Source · AI Agent Framework · AGENTS.md · Pragmatic Engineering · Verification Gate</sub>
       <br/><br/>
-      <a href="https://github.com/AlmxndBL/Apex-skill"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
+      <a href="https://github.com/AlmxndBL/Apex-core"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏛️ Nexus 2.0 &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v2.3.0-06B6D4?style=flat-square" alt="v2.3.0" valign="middle"/> <img src="https://img.shields.io/badge/MCP-Enabled-818CF8?style=flat-square" alt="MCP" valign="middle"/></h3>
