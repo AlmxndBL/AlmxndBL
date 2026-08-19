@@ -23,7 +23,7 @@ I'm **Chaiyakorn (Jack)**, a 4th-year Computer Science student at BRU who builds
 * ⚙️ **Backend Architecture** — Designing scalable **Node.js (Fastify/Express)** APIs and enterprise **.NET 8 (C#)** systems with JWT & RBAC.
 * 🗄️ **Database Engineering** — Schema design, migrations, and atomic transactions using **PostgreSQL**, **Prisma ORM**, and **EF Core**.
 * 🤖 **AI Integration & Automation** — Incorporating **RAG pipelines**, **AI Agents (MCP)**, and **n8n** automation directly into web systems.
-* 🚀 **Quality & Delivery** — Containerized with **Docker**, automated with **CI/CD**, and tested with **Vitest**.
+* 🚀 **Quality & Delivery** — Containerized with **Docker**, deployed on **Cloudflare**, and tested with **Vitest**.
 
 <br/>
 
@@ -58,6 +58,7 @@ I'm **Chaiyakorn (Jack)**, a 4th-year Computer Science student at BRU who builds
 
 **🔧 DevOps & AI Engineering**
 <p align="left">
+  <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/></a>
