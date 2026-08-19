@@ -17,91 +17,56 @@
 
 ## 🛠️ About Me
 
-I'm **Chaiyakorn**, a 4th-year Computer Science student at BRU who builds production-ready, full-stack web applications — from clean REST APIs and database schemas, to polished, responsive front-ends.
+I'm **Chaiyakorn (Jack)**, a 4th-year Computer Science student at BRU who builds production-ready, full-stack web applications — from clean REST APIs and robust database architectures to polished, responsive user interfaces.
 
-```ts
-const Chaiyakorn = {
-  name:       "Chaiyakorn (Jack)",
-  role:       "Full-Stack Developer",
-  school:     "Buriram Rajabhat University — CS, Year 4",
-  frontend:   ["Vue.js", "Nuxt.js", "Angular", "React Native", "TypeScript"],
-  backend:    ["Node.js", "Express.js", ".NET 8 (C#)", "Bun", "REST APIs"],
-  database:   ["PostgreSQL", "SQLite", "Prisma ORM", "EF Core"],
-  devops:     ["Docker", "Git", "CI/CD"],
-  ai:         ["RAG Pipelines", "n8n Automation", "PyTorch", "NLP"],
-  certified:  "System Developer Level 3 — TPQI National Standard",
-  status:     "Seeking a Full-Stack Developer internship",
-  contact:    "chaiyakorn.y04@gmail.com",
-};
-```
-
-* 💻 **Frontend Excellence** — Building high-performance, responsive UIs with Vue.js, Nuxt.js, and Angular.
-* ⚙️ **Backend Architecture** — Designing scalable Node.js REST APIs and enterprise .NET 8 systems with JWT/RBAC security.
-* 🗄️ **Database Engineering** — Schema design, ORM mastery (Prisma & EF Core), and atomic transaction management.
-* 🤖 **AI as a Feature** — Integrating RAG pipelines, AI agents, and n8n automation directly into full-stack products.
-* 🚀 **Always Shipping** — From requirements to production — clean code, tested, deployed.
+* 💻 **Frontend Development** — Building high-performance, reactive UIs with **Vue 3**, **Nuxt 4**, and **Tailwind CSS**.
+* ⚙️ **Backend Architecture** — Designing scalable **Node.js (Fastify/Express)** APIs and enterprise **.NET 8 (C#)** systems with JWT & RBAC.
+* 🗄️ **Database Engineering** — Schema design, migrations, and atomic transactions using **PostgreSQL**, **Prisma ORM**, and **EF Core**.
+* 🤖 **AI Integration & Automation** — Incorporating **RAG pipelines**, **AI Agents (MCP)**, and **n8n** automation directly into web systems.
+* 🚀 **Quality & Delivery** — Containerized with **Docker**, automated with **CI/CD**, and tested with **Vitest**.
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-**💻 Programming Languages**
+**💻 Core Languages**
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/></a>
 </p>
 
-**🎨 Frontend Development**
+**🎨 Frontend & Mobile**
 <p align="left">
-  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/></a>
-  <a href="https://nuxt.com/"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/></a>
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/></a>
+  <a href="https://nuxt.com/"><img src="https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/></a>
   <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/></a>
   <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
 </p>
 
-**⚙️ Backend & Runtime**
+**⚙️ Backend & Database**
 <p align="left">
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/></a>
   <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8"/></a>
-  <a href="https://bun.sh/"><img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/></a>
-</p>
-
-**💾 Database & ORM**
-<p align="left">
+  <a href="https://fastify.dev/"><img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/></a>
-  <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/></a>
+  <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/></a>
   <a href="https://learn.microsoft.com/en-us/ef/core/"><img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core"/></a>
 </p>
 
-**🔧 Development Tools & DevOps**
+**🔧 DevOps & AI Engineering**
 <p align="left">
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/></a>
-  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/></a>
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
-</p>
-
-**🤖 AI & Automation (Integrated into Full-Stack)**
-<p align="left">
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
-  <a href="https://spacy.io/"><img src="https://img.shields.io/badge/NLP_/_SpaCy-818CF8?style=flat-square&logo=spacy&logoColor=white" alt="NLP"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/></a>
   <a href="https://openai.com/"><img src="https://img.shields.io/badge/RAG_/_LLMs-6366F1?style=flat-square&logo=openai&logoColor=white" alt="RAG"/></a>
+  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP_Protocol-818CF8?style=flat-square&logo=anthropic&logoColor=white" alt="MCP"/></a>
   <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/></a>
 </p>
 
 <br/>
-
-
 
 ## 🚀 Featured Projects
 
@@ -137,29 +102,11 @@ const Chaiyakorn = {
     </td>
     <!-- Project 4 -->
     <td width="50%" valign="top">
-      <h3>📱 SaiJai MiniSystem &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-6366F1?style=flat-square" alt="Active" valign="middle"/></h3>
-      <p>Mobile-first laundry management system featuring a React Native Expo app for customers and staff, backed by a production-ready Fastify REST API with JWT auth and Prisma ORM.</p>
+      <h3>📱 SaiJai Laundry Management &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-6366F1?style=flat-square" alt="Active" valign="middle"/></h3>
+      <p>Mobile-first laundry service platform featuring a React Native Expo application for customers/drivers and a high-performance Fastify backend with JWT auth and Prisma ORM.</p>
       <sub><b>Tech Stack:</b> React Native, Expo, Fastify, TypeScript, Prisma, PostgreSQL</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Private-Repository-555?style=flat-square&logo=git" alt="Private Repo"/>
-    </td>
-  </tr>
-  <tr>
-    <!-- Project 5 -->
-    <td width="50%" valign="top">
-      <h3>🎒 Knapsack Visualizer &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Complete-818CF8?style=flat-square" alt="Complete" valign="middle"/></h3>
-      <p>Interactive algorithm visualizer comparing Greedy vs Dynamic Programming approaches step-by-step. Built for clarity and educational impact.</p>
-      <sub><b>Tech Stack:</b> Nuxt.js, Vue.js, TypeScript</sub>
-      <br/><br/>
-      <a href="https://github.com/AlmxndBL/KnapsackProject"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
-    </td>
-    <!-- Project 6 -->
-    <td width="50%" valign="top">
-      <h3>🤖 AI Agent System CLI &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-6366F1?style=flat-square" alt="Active" valign="middle"/></h3>
-      <p>Local-first developer productivity tool. An AI coding assistant with Obsidian graph memory, conversation context, and built-in security guardrails.</p>
-      <sub><b>Tech Stack:</b> TypeScript, Node.js, Obsidian</sub>
-      <br/><br/>
-      <a href="https://github.com/AlmxndBL/Ai-agent-system-CLI"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
   </tr>
 </table>
@@ -173,14 +120,14 @@ const Chaiyakorn = {
     <td width="50%" valign="top">
       <h3>⚡ Apex &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v2.3.0-06B6D4?style=flat-square" alt="v2.3.0" valign="middle"/> <img src="https://img.shields.io/badge/Open%20Source-MIT-22c55e?style=flat-square" alt="Open Source" valign="middle"/></h3>
       <p>Production-grade open-source rules & behavioral framework for AI coding agents (Antigravity, Cursor, Claude Code). Enforces Stack-Aware Memory Recall, 6 engineering pillars, strict TypeScript, and Universal Definition of Done.</p>
-      <sub><b>Category:</b> Open Source · AI Agent Framework · AGENTS.md · Pragmatic Engineering · Verification Gate</sub>
+      <sub><b>Category:</b> Open Source · AI Agent Framework · AGENTS.md · Verification Gate</sub>
       <br/><br/>
       <a href="https://github.com/AlmxndBL/Apex-core"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏛️ Nexus 2.0 &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v2.3.0-06B6D4?style=flat-square" alt="v2.3.0" valign="middle"/> <img src="https://img.shields.io/badge/MCP-Enabled-818CF8?style=flat-square" alt="MCP" valign="middle"/></h3>
       <p>Open-source developer memory vault & Universal MCP Bridge. Features Stack-Aware Gotchas Library, JIT context compiler, closed-loop memory capture via Git push, and 8 native MCP tools.</p>
-      <sub><b>Category:</b> Open Source · MCP Server · Long-Term Memory · Stack-Aware Gotchas · Context Engine</sub>
+      <sub><b>Category:</b> Open Source · MCP Server · Long-Term Memory · Context Engine</sub>
       <br/><br/>
       <a href="https://github.com/AlmxndBL/nexus"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
@@ -206,22 +153,6 @@ const Chaiyakorn = {
       <i>Cloud Infrastructure · Core AWS Services · Cloud Architecture</i></p>
       <sub>📅 3 July 2026</sub><br/><br/>
       <a href="./certificate/AWS%20Cloud%20Foundation%20Program.pdf"><img src="https://img.shields.io/badge/View-Certificate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="View Certificate"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Software Development Concepts & Testing with Python</h4>
-      <p>Professional Certificate — Coursera<br/>
-      <i>Software Engineering · Testing · Python · Agile Practices</i></p>
-      <sub>📅 July 2026 · Credential ID: <code>aan9ylqajs</code></sub><br/><br/>
-      <a href="./certificate/Software Development Concepts and Testing with.pdf"><img src="https://img.shields.io/badge/View-Certificate-06B6D4?style=flat-square" alt="View Certificate"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Generative AI in Software Development</h4>
-      <p>Professional Certificate — Coursera<br/>
-      <i>Generative AI · LLMs · AI-Assisted Development</i></p>
-      <sub>📅 July 2026 · Credential ID: <code>mfcjcexhcx</code></sub><br/><br/>
-      <a href="./certificate/Generative AI in Software Development.pdf"><img src="https://img.shields.io/badge/View-Certificate-818CF8?style=flat-square" alt="View Certificate"/></a>
     </td>
   </tr>
   <tr>
