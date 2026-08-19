@@ -171,18 +171,18 @@ const Chaiyakorn = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Master Agent Skill Rules &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v2.2.1-06B6D4?style=flat-square" alt="v2.2.1" valign="middle"/></h3>
-      <p>3-Tier rules & behavioral framework for AI coding agents (Antigravity, Cursor, Claude Code). Enforces 6 engineering pillars, strict TypeScript, and Universal Definition of Done.</p>
-      <sub><b>Category:</b> AI Agent Rules · AGENTS.md · System Prompting · Pragmatic Engineering</sub>
+      <h3>🧠 Master Agent Skill Rules &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v2.3.0-06B6D4?style=flat-square" alt="v2.3.0" valign="middle"/> <img src="https://img.shields.io/badge/Open%20Source-MIT-22c55e?style=flat-square" alt="Open Source" valign="middle"/></h3>
+      <p>Production-grade open-source rules & behavioral framework for AI coding agents (Antigravity, Cursor, Claude Code). Enforces Stack-Aware Memory Recall, 6 engineering pillars, strict TypeScript, and Universal Definition of Done.</p>
+      <sub><b>Category:</b> Open Source · AI Agent Rules · AGENTS.md · Pragmatic Engineering · Verification Gate</sub>
       <br/><br/>
       <a href="https://github.com/AlmxndBL/agent-skill"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ Nexus 2.0 &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v2.0-06B6D4?style=flat-square" alt="v2.0" valign="middle"/> <img src="https://img.shields.io/badge/MCP-Enabled-818CF8?style=flat-square" alt="MCP" valign="middle"/></h3>
-      <p>Active Personal Engineering OS & Universal MCP Bridge. Features JIT context compilation, closed-loop memory logging via Git push, and automated code quality auditing (Nexus Doctor).</p>
-      <sub><b>Category:</b> MCP Server · Developer Memory · Git Automation · Context Engine</sub>
+      <h3>🏛️ Nexus 2.0 &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v2.3.0-06B6D4?style=flat-square" alt="v2.3.0" valign="middle"/> <img src="https://img.shields.io/badge/MCP-Enabled-818CF8?style=flat-square" alt="MCP" valign="middle"/></h3>
+      <p>Open-source developer memory vault & Universal MCP Bridge. Features Stack-Aware Gotchas Library, JIT context compiler, closed-loop memory capture via Git push, and 8 native MCP tools.</p>
+      <sub><b>Category:</b> Open Source · MCP Server · Long-Term Memory · Stack-Aware Gotchas · Context Engine</sub>
       <br/><br/>
-      <a href="https://github.com/AlmxndBL/project-x-memory"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
+      <a href="https://github.com/AlmxndBL/nexus"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
   </tr>
 </table>
