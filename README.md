@@ -27,25 +27,29 @@ I'm **Chaiyakorn (Jack)**, a Computer Science student at Buriram Rajabhat Univer
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **💻 Core Languages**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,cs,js,py,postgres" />
 </p>
 
 **🎨 Frontend & UI**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nuxtjs,vue,nextjs,react,tailwind" />
 </p>
 
 **⚙️ Backend & Database**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,fastify,postgres,prisma" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgres,prisma,supabase" />
 </p>
 
 **🔧 DevOps, Tooling & AI**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,vitest" />
 </p>
+
+</div>
 
 <br/>
 
