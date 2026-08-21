@@ -15,13 +15,13 @@
 
 <br/>
 
-## 🛠️ About Me
+## 👨‍💻 About Me
 
-I'm **Chaiyakorn (Jack)**, a 4th-year Computer Science student at BRU who builds production-ready, full-stack web applications — from clean REST APIs and robust database architectures to polished, responsive user interfaces.
+I'm **Chaiyakorn (Jack)**, a Computer Science student at Buriram Rajabhat University and a TPQI-certified System Developer (Level 3). I focus on engineering reliable, production-ready web applications with clean architectures, strong type safety, and intuitive user experiences.
 
-* 💻 **Frontend & UI** — High-performance reactive UIs with **Nuxt 4**, **Vue 3.5**, **Next.js 15**, **React 19**, **React Native (Expo)**, **Tailwind CSS v4**, and **Nuxt UI v4**.
-* ⚙️ **Backend & Database** — Scalable **Node.js (Nitro / Fastify)** APIs and enterprise **.NET 8 (C#)** systems backed by **PostgreSQL**, **Prisma 7 ORM**, and **EF Core**.
-* 🔧 **DevOps & Tooling** — Containerized with **Docker**, deployed on **Vercel / Cloudflare**, version controlled with **Git**, and test-driven with **Vitest**.
+* 🚀 **Building Scalable Systems** — Crafting end-to-end full-stack applications from efficient database design and robust backend APIs to modern, reactive interfaces.
+* 🎯 **Engineering Standards** — Dedicated to test-driven development, modular architecture, and automated verification workflows.
+* 🤖 **AI & Developer Tooling** — Exploring AI agent behavioral frameworks, MCP integration, and developer productivity systems.
 
 <br/>
 
