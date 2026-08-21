@@ -29,42 +29,22 @@ I'm **Chaiyakorn (Jack)**, a Computer Science student at Buriram Rajabhat Univer
 
 **💻 Core Languages**
 <p align="left">
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/></a>
+  <img src="https://skillicons.dev/icons?i=ts,cs,js,py,postgres" />
 </p>
 
 **🎨 Frontend & UI**
 <p align="left">
-  <a href="https://nuxt.com/"><img src="https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt 4"/></a>
-  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js_3.5-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js 3.5"/></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 15"/></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19"/></a>
-  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native_(Expo)-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native (Expo)"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS v4"/></a>
-  <a href="https://ui.nuxt.com/"><img src="https://img.shields.io/badge/Nuxt_UI_v4-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt UI v4"/></a>
+  <img src="https://skillicons.dev/icons?i=nuxtjs,vue,nextjs,react,tailwind" />
 </p>
 
 **⚙️ Backend & Database**
 <p align="left">
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
-  <a href="https://nitro.unjs.io/"><img src="https://img.shields.io/badge/Nitro-F472B6?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nitro"/></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8"/></a>
-  <a href="https://fastify.dev/"><img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma_7_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma 7 ORM"/></a>
-  <a href="https://learn.microsoft.com/en-us/ef/core/"><img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core"/></a>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,fastify,postgres,prisma" />
 </p>
 
 **🔧 DevOps, Tooling & AI**
 <p align="left">
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/></a>
-  <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/></a>
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,vitest" />
 </p>
 
 <br/>
