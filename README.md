@@ -91,7 +91,7 @@ I'm **Chaiyakorn (Jack)**, a Computer Science student at Buriram Rajabhat Univer
       <p>Mobile-first laundry operations SaaS with Thai-first UI, Better Auth, LINE LIFF/Messaging API integration, idempotent pickup confirmation scheduling, and Prisma 7 PostgreSQL backend.</p>
       <sub><b>Tech Stack:</b> Nuxt 4, Nitro, Vue 3.5, Better Auth, LINE LIFF, Prisma 7, PostgreSQL, TailwindCSS v4</sub>
       <br/><br/>
-      <a href="https://github.com/AlmxndBL/SaiJai-Phareab"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
+      <img src="https://img.shields.io/badge/Repository-Private%20(Commercial)-475569?style=flat-square&logo=git" alt="Private Repo"/>
     </td>
   </tr>
 </table>
