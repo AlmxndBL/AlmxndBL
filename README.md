@@ -19,9 +19,9 @@
 
 I'm **Chaiyakorn (Jack)**, a Computer Science student at Buriram Rajabhat University and a TPQI-certified System Developer (Level 3). I focus on engineering reliable, production-ready web applications with clean architectures, strong type safety, and intuitive user experiences.
 
-* 🚀 **Building Scalable Systems** — Crafting end-to-end full-stack applications from efficient database design and robust backend APIs to modern, reactive interfaces.
-* 🎯 **Engineering Standards** — Dedicated to test-driven development, modular architecture, and automated verification workflows.
-* 🤖 **AI & Developer Tooling** — Exploring AI agent behavioral frameworks, MCP integration, and developer productivity systems.
+- 🚀 **Building Scalable Systems** — Crafting end-to-end full-stack applications from efficient database design and robust backend APIs to modern, reactive interfaces.
+- 🎯 **Engineering Standards** — Dedicated to test-driven development, modular architecture, and automated verification workflows.
+- 🤖 **AI & Developer Tooling** — Exploring AI agent behavioral frameworks, MCP integration, and developer productivity systems.
 
 <br/>
 
@@ -30,21 +30,25 @@ I'm **Chaiyakorn (Jack)**, a Computer Science student at Buriram Rajabhat Univer
 <div align="center">
 
 **💻 Core Languages**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,cs,js,py,postgres" />
 </p>
 
 **🎨 Frontend & UI**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nuxtjs,vue,nextjs,react,tailwind" />
 </p>
 
 **⚙️ Backend & Database**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgres,prisma,supabase" />
 </p>
 
 **🔧 DevOps, Tooling & AI**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,vitest" />
 </p>
@@ -59,20 +63,18 @@ I'm **Chaiyakorn (Jack)**, a Computer Science student at Buriram Rajabhat Univer
   <tr>
     <!-- Project 1 -->
     <td width="50%" valign="top">
-      <h3>🪵 Demo Log Management &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Live-00DC82?style=flat-square" alt="Live" valign="middle"/></h3>
+      <h3>🪵 Log Management &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Complete-818CF8?style=flat-square" alt="Complete" valign="middle"/></h3>
       <p>Enterprise full-stack log management platform with multi-tenancy, RBAC, log normalization/ingestion pipeline, and real-time analytics dashboard. Built with Nuxt 4 + Prisma 7 + PostgreSQL (Supabase) and fully verified with Vitest.</p>
       <sub><b>Tech Stack:</b> Nuxt 4, Vue 3.5, TypeScript, PostgreSQL (Supabase), Prisma 7, Docker, Vitest</sub>
       <br/><br/>
-      <a href="https://demo-log-management.vercel.app/"><img src="https://img.shields.io/badge/Demo-Live%20Demo-06B6D4?style=flat-square" alt="Live Demo"/></a> &nbsp;
       <a href="https://github.com/AlmxndBL/full-stack_intern_test"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
-      <h3>🏆 Esport Draw &nbsp;&nbsp; <img src="https://img.shields.io/badge/Nuxt%204-Upgrade-06B6D4?style=flat-square" alt="Nuxt 4" valign="middle"/> <img src="https://img.shields.io/badge/Status-Live-00DC82?style=flat-square" alt="Live" valign="middle"/></h3>
+      <h3>🏆 Esport Draw &nbsp;&nbsp; <img src="https://img.shields.io/badge/Nuxt%204-Upgrade-06B6D4?style=flat-square" alt="Nuxt 4" valign="middle"/> <img src="https://img.shields.io/badge/Status-Complete-818CF8?style=flat-square" alt="Complete" valign="middle"/></h3>
       <p>Tournament bracket manager with animated spin wheel, drag-and-drop team seeding, multi-tenant organizer RBAC, and automatic same-school conflict rules. Built on Nuxt 4 with Nuxt UI v4, Prisma 7 & Supabase.</p>
       <sub><b>Tech Stack:</b> Nuxt 4, Vue 3.5, TypeScript, Nuxt UI v4, Tailwind CSS v4, Prisma 7, PostgreSQL</sub>
       <br/><br/>
-      <a href="https://esport-draw.vercel.app"><img src="https://img.shields.io/badge/Demo-Live%20Demo-06B6D4?style=flat-square" alt="Live Demo"/></a> &nbsp;
       <a href="https://github.com/AlmxndBL/esport-draw-nuxt"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
   </tr>
@@ -103,14 +105,14 @@ I'm **Chaiyakorn (Jack)**, a Computer Science student at Buriram Rajabhat Univer
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Apex &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v3.1.0-06B6D4?style=flat-square" alt="v3.1.0" valign="middle"/> <img src="https://img.shields.io/badge/Open%20Source-MIT-22c55e?style=flat-square" alt="Open Source" valign="middle"/></h3>
+      <h3>⚡ Apex &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v4.0.0-06B6D4?style=flat-square" alt="v4.0.0" valign="middle"/> <img src="https://img.shields.io/badge/Open%20Source-MIT-22c55e?style=flat-square" alt="Open Source" valign="middle"/></h3>
       <p>Production-grade behavioral framework & rule engine for AI coding agents. Features Capability-Seams Architecture, Spec-Driven Development (Contract-First SDD), AST Skeleton Mapping, Karpathy-Infused Anti-Overengineering Gates, and 8 specialized engineering skills.</p>
       <sub><b>Category:</b> Open Source · AI Agent Framework · Capability-Seams · Spec-Driven Development</sub>
       <br/><br/>
       <a href="https://github.com/AlmxndBL/Apex-core"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌌 Nexus 3.0 &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v3.0.0-06B6D4?style=flat-square" alt="v3.0.0" valign="middle"/> <img src="https://img.shields.io/badge/MCP%203.0-Enabled-818CF8?style=flat-square" alt="MCP 3.0" valign="middle"/></h3>
+      <h3>🌌 Nexus &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v3.0.0-06B6D4?style=flat-square" alt="v3.0.0" valign="middle"/> <img src="https://img.shields.io/badge/MCP%203.0-Enabled-818CF8?style=flat-square" alt="MCP 3.0" valign="middle"/></h3>
       <p>Autonomous AI Operating Hub & Central Control Plane. Features AST Codebase Skeleton Mapping (1-second structural repo scans), Universal Knowledge & Pattern Search, Dynamic Memory Engine, Central Capability Registry, and Universal MCP Bridge 3.0.</p>
       <sub><b>Category:</b> Open Source · Autonomous AI Operating Hub · AST Context Engine · MCP 3.0</sub>
       <br/><br/>
