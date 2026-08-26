@@ -105,16 +105,16 @@ I'm **Chaiyakorn (Jack)**, a Computer Science student at Buriram Rajabhat Univer
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Apex &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v4.0.0-06B6D4?style=flat-square" alt="v4.0.0" valign="middle"/> <img src="https://img.shields.io/badge/Open%20Source-MIT-22c55e?style=flat-square" alt="Open Source" valign="middle"/></h3>
-      <p>Production-grade behavioral framework & rule engine for AI coding agents. Features Capability-Seams Architecture, Spec-Driven Development (Contract-First SDD), AST Skeleton Mapping, Karpathy-Infused Anti-Overengineering Gates, and 8 specialized engineering skills.</p>
-      <sub><b>Category:</b> Open Source · AI Agent Framework · Capability-Seams · Spec-Driven Development</sub>
+      <h3>⚡ Apex-core &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v5.2.3-06B6D4?style=flat-square" alt="v5.2.3" valign="middle"/> <img src="https://img.shields.io/badge/Open%20Source-MIT-22c55e?style=flat-square" alt="Open Source" valign="middle"/></h3>
+      <p>Deterministic AI Agent Operating Protocol & Token Economy Control Plane. Features AST Codebase Cartography (🔻 80.7% context diet & modeled 94.4% cumulative token savings), fast in-RAM typechecking verifier, 2-strike circuit breaker, and 4 consolidated engineering skills with Enterprise UI/UX standards.</p>
+      <sub><b>Category:</b> Open Source · Deterministic Control Plane · Token Economy Protocol · AST Cartography</sub>
       <br/><br/>
       <a href="https://github.com/AlmxndBL/Apex-core"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌌 Nexus &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v3.0.0-06B6D4?style=flat-square" alt="v3.0.0" valign="middle"/> <img src="https://img.shields.io/badge/MCP%203.0-Enabled-818CF8?style=flat-square" alt="MCP 3.0" valign="middle"/></h3>
-      <p>Autonomous AI Operating Hub & Central Control Plane. Features AST Codebase Skeleton Mapping (1-second structural repo scans), Universal Knowledge & Pattern Search, Dynamic Memory Engine, Central Capability Registry, and Universal MCP Bridge 3.0.</p>
-      <sub><b>Category:</b> Open Source · Autonomous AI Operating Hub · AST Context Engine · MCP 3.0</sub>
+      <p>Autonomous AI Operating Hub & Central Control Plane. Features AST Codebase Skeleton Mapping (1-second structural scans), Universal Knowledge & Pattern Search, Dynamic Memory Engine, Central Capability Registry, and Universal MCP Bridge 3.0 (10 Tools).</p>
+      <sub><b>Category:</b> Open Source · Autonomous AI Operating Hub · Dynamic Memory OS · Universal MCP Bridge 3.0</sub>
       <br/><br/>
       <a href="https://github.com/AlmxndBL/nexus"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
     </td>
