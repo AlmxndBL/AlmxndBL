@@ -106,7 +106,7 @@ I'm **Chaiyakorn (Jack)**, a Computer Science student at Buriram Rajabhat Univer
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ Apex-core &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v5.2.3-06B6D4?style=flat-square" alt="v5.2.3" valign="middle"/> <img src="https://img.shields.io/badge/Open%20Source-MIT-22c55e?style=flat-square" alt="Open Source" valign="middle"/></h3>
-      <p>Deterministic AI Agent Operating Protocol & Token Economy Control Plane. Features AST Codebase Cartography (🔻 80.7% context diet & modeled 94.4% cumulative token savings), fast in-RAM typechecking verifier, 2-strike circuit breaker, and 4 consolidated engineering skills with Enterprise UI/UX standards.</p>
+      <p>Deterministic AI Agent Operating Protocol & Token Economy Control Plane. Features AST Codebase Cartography (🔻 80.7% context diet & modeled 94.0% cumulative token savings), fast in-RAM typechecking verifier, 2-strike circuit breaker, and 4 consolidated engineering skills with Enterprise UI/UX standards.</p>
       <sub><b>Category:</b> Open Source · Deterministic Control Plane · Token Economy Protocol · AST Cartography</sub>
       <br/><br/>
       <a href="https://github.com/AlmxndBL/Apex-core"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
