@@ -105,11 +105,13 @@ I'm **Chaiyakorn (Jack)**, a Computer Science student at Buriram Rajabhat Univer
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Apex-core &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v5.3.0-06B6D4?style=flat-square" alt="v5.3.0" valign="middle"/> <img src="https://img.shields.io/badge/Open%20Source-MIT-22c55e?style=flat-square" alt="Open Source" valign="middle"/></h3>
-      <p>Deterministic AI Agent Operating Protocol & Token Economy Control Plane. Features AST Codebase Cartography (🔻 80.7% context diet & modeled 94.0% cumulative token savings), fast in-RAM typechecking verifier, 2-strike circuit breaker, and 4 consolidated engineering skills with Enterprise UI/UX standards.</p>
-      <sub><b>Category:</b> Open Source · Deterministic Control Plane · Token Economy Protocol · AST Cartography</sub>
+      <h3>⚡ Apex-core &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v5.4.0-06B6D4?style=flat-square" alt="v5.4.0" valign="middle"/> <img src="https://img.shields.io/badge/Open%20Source-MIT-22c55e?style=flat-square" alt="Open Source" valign="middle"/></h3>
+      <p>Deterministic AI Agent Operating Protocol & Token Economy Control Plane. Empirically proven across 50 production benchmark tasks in <a href="https://github.com/AlmxndBL/Apex-eval">Apex-eval</a> to reduce input token consumption by <b>🔻 58.4% on average (and up to 88.9% on large schemas)</b> ($p = 0.000000$). Features AST Cartography, fast in-RAM typechecking verifier, 2-strike circuit breaker, and 4 consolidated engineering skills.</p>
+      <sub><b>Category:</b> Open Source · Deterministic Control Plane · Empirical Token Reduction · AST Cartography</sub>
       <br/><br/>
       <a href="https://github.com/AlmxndBL/Apex-core"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
+      &nbsp;
+      <a href="https://github.com/AlmxndBL/Apex-eval"><img src="https://img.shields.io/badge/Benchmark-Apex--eval-10b981?style=flat-square&logo=github" alt="Benchmark"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌌 Nexus &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v3.0.0-06B6D4?style=flat-square" alt="v3.0.0" valign="middle"/> <img src="https://img.shields.io/badge/MCP%203.0-Enabled-818CF8?style=flat-square" alt="MCP 3.0" valign="middle"/></h3>
