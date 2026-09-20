@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=210&section=header&text=Chaiyakorn%20(Jack)&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%26%20TPQI%20System%20Developer%20Lv.3%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Infrastructure&descSize=18&descAlignY=56&descColor=e0e7ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=210&section=header&text=Chaiyakorn%20(Jack)&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%26amp%3B%20TPQI%20System%20Developer%20Lv.3%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Infrastructure&descSize=17&descAlignY=56&descColor=e0e7ff" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=780&height=46&lines=Software+Engineer+%26+TPQI-Certified+System+Developer;Full-Stack+Architect+%E2%80%94+Nuxt+4+%26+Vue+3.5+%26+Next.js+15;Backend+%26+Cloud+%E2%80%94+Node.js+%26+.NET+8+%26+PostgreSQL;AI+Agent+Infrastructure+%E2%80%94+Apex-core+%26+Nexus+MCP+3.0;Building+Deterministic%2C+Production-Ready+Systems" alt="Typing SVG" />
 
