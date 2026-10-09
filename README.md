@@ -1,217 +1,167 @@
-<div align="center">
+# Chaiyakorn Yodprakon (Jack)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=210&section=header&text=Chaiyakorn%20(Jack)&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%26amp%3B%20TPQI%20System%20Developer%20Lv.3%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Infrastructure&descSize=17&descAlignY=56&descColor=e0e7ff" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=780&height=46&lines=Software+Engineer+%26+TPQI-Certified+System+Developer;Full-Stack+Architect+%E2%80%94+Nuxt+4+%26+Vue+3.5+%26+Next.js+15;Backend+%26+Cloud+%E2%80%94+Node.js+%26+.NET+8+%26+PostgreSQL;AI+Agent+Infrastructure+%E2%80%94+Apex-core+%26+Nexus+MCP+3.0;Building+Deterministic%2C+Production-Ready+Systems" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AlmxndBL&label=Profile%20Views&color=818CF8&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer-818CF8?style=flat-square" alt="Role" />
-  <img src="https://img.shields.io/badge/TPQI-System%20Developer%20Lv.3-06B6D4?style=flat-square" alt="TPQI Certified" />
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems%20%26%20AI-6366F1?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Based%20in-Thailand-818CF8?style=flat-square" alt="location" />
+<p align="left">
+  <b>Software Engineer & TPQI-Certified System Developer (Level 3)</b><br/>
+  <i>Specializing in Full-Stack Web Architectures (.NET / Nuxt 4), Transactional Systems & Deterministic AI Infrastructure.</i>
 </p>
 
-</div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-I'm **Chaiyakorn (Jack)**, a **Software Engineer & TPQI-Certified System Developer (Level 3)** specializing in modern full-stack web architectures, distributed backend platforms, and deterministic AI agent infrastructure. I engineer production-grade systems with clean architecture, strict type safety, modular design, and verifiable quality.
-
-- 🚀 **Full-Stack & Cloud Architecture** — Architecting robust end-to-end platforms from high-throughput database schemas and REST/RPC APIs to responsive, reactive user interfaces (Nuxt 4, Next.js 15, .NET 8, PostgreSQL).
-- ⚡ **AI Agent Infrastructure & DevTooling** — Pioneering deterministic agent control planes ([Apex-core](https://github.com/AlmxndBL/Apex-core)) and universal MCP hubs ([Nexus](https://github.com/AlmxndBL/nexus)), achieving empirical token economy and sub-second AST cartography.
-- 🎯 **Engineering Standards & Reliability** — Committed to rigorous engineering hygiene, automated verification (Vitest, Docker), transactional consistency, and maintainable systems.
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**💻 Core Languages**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,cs,js,py,postgres" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Roles%20(Internship%20%2F%20Junior)-10B981?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/TPQI-System%20Developer%20Lv.3-6366F1?style=flat-square" alt="TPQI Certified"/>
+  <img src="https://img.shields.io/badge/Super%20AI%20Engineer-Innovator%20(Ss.5)-F59E0B?style=flat-square" alt="Super AI Innovator"/>
+  <img src="https://img.shields.io/badge/Location-Thailand%20(Bangkok%20%2F%20Remote)-1E293B?style=flat-square" alt="Location"/>
 </p>
 
-**🎨 Frontend & UI Ecosystem**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nuxtjs,vue,nextjs,react,tailwind" />
+<p align="left">
+  <a href="./resume/Chaiyakorn_Resume.pdf"><img src="https://img.shields.io/badge/Download-Resume%20(PDF)-6366F1?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF"/></a>
+  &nbsp;
+  <a href="mailto:chaiyakorn.y04@gmail.com"><img src="https://img.shields.io/badge/Email-chaiyakorn.y04@gmail.com-1E293B?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="https://github.com/AlmxndBL"><img src="https://img.shields.io/badge/GitHub-AlmxndBL-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  &nbsp;
+  <a href="tel:0858495061"><img src="https://img.shields.io/badge/Phone-085--849--5061-0F172A?style=flat-square&logo=phone&logoColor=white" alt="Phone"/></a>
 </p>
 
-**⚙️ Backend, Microservices & Database**
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgres,prisma,supabase" />
-</p>
+## 🧭 Executive Summary
 
-**🔧 DevOps, Testing & AI Infrastructure**
+I am a Computer Science student (expected graduation 2027) and Software Engineer holding the **National Professional Qualification as System Developer Level 3 (TPQI)** and recognized as an **Innovator in the Super AI Engineer Season 5 Program**.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,vitest" />
-</p>
+My engineering practice centers on **deterministic, high-integrity systems** — ensuring database transactions are concurrency-safe, APIs are strictly typed, hardware interfaces operate reliably, and AI agent control planes execute within empirical bounds.
 
-</div>
+```
+                    ┌─────────────────────────────────────────┐
+                    │       Chaiyakorn (Jack) Yodprakon       │
+                    │      Software Engineer & TPQI Lv.3      │
+                    └────────────────────┬────────────────────┘
+                                         │
+         ┌──────────────────┬────────────┴───────┬──────────────────┐
+         ▼                  ▼                    ▼                  ▼
+┌──────────────────┐┌──────────────────┐┌──────────────────┐┌──────────────────┐
+│ Modern FullStack ││Enterprise Backend││ AI Infrastructure││ Applied AI / GEE │
+│ Nuxt 4 · Vue 3.5 ││ C# .NET 8 · REST ││ Apex-core · MCP  ││ Satellite Sensing│
+│ Better Auth·LINE ││ EF Core · Prisma ││ AST Cartography  ││ Sentinel-2·Python│
+└──────────────────┘└──────────────────┘└──────────────────┘└──────────────────┘
+```
 
-<br/>
+---
 
-## 🌐 1. Production Web Applications & SaaS
+## 🏆 Key Accreditations & Honors
 
-<table width="100%">
-  <tr>
-    <!-- Project 1: SaiJai Laundry -->
-    <td width="50%" valign="top">
-      <h3>🧺 SaiJai Laundry Platform &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active%20SaaS-00DC82?style=flat-square" alt="Active SaaS" valign="middle"/></h3>
-      <p>Mobile-first commercial laundry operations SaaS featuring Thai-first UI, Better Auth integration, LINE LIFF / Messaging API notification pipeline, idempotent pickup confirmation scheduling, and multi-tenant schema isolation.</p>
-      <sub><b>Tech Stack:</b> Nuxt 4, Nitro, Vue 3.5, Better Auth, LINE LIFF, Prisma 7, PostgreSQL, TailwindCSS v4</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Access-Commercial%20SaaS-475569?style=flat-square&logo=git" alt="Commercial"/>
-    </td>
-    <!-- Project 2: Log Management -->
-    <td width="50%" valign="top">
-      <h3>🪵 Log Management &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Complete-818CF8?style=flat-square" alt="Complete" valign="middle"/> <img src="https://img.shields.io/badge/Testing-Vitest%20Verified-06B6D4?style=flat-square" alt="Vitest Verified" valign="middle"/></h3>
-      <p>Enterprise full-stack log management platform with multi-tenancy, granular RBAC, high-throughput log ingestion/normalization pipeline, and interactive real-time analytics dashboard with full test coverage.</p>
-      <sub><b>Tech Stack:</b> Nuxt 4, Vue 3.5, TypeScript, PostgreSQL (Supabase), Prisma 7, Docker, Vitest</sub>
-      <br/><br/>
-      <a href="https://github.com/AlmxndBL/full-stack_intern_test"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
-    </td>
-  </tr>
-  <tr>
-    <!-- Project 3: Esport Draw -->
-    <td width="50%" valign="top">
-      <h3>🏆 Esport Tournament Engine &nbsp;&nbsp; <img src="https://img.shields.io/badge/Nuxt%204-Upgrade-06B6D4?style=flat-square" alt="Nuxt 4" valign="middle"/> <img src="https://img.shields.io/badge/Status-Complete-818CF8?style=flat-square" alt="Complete" valign="middle"/></h3>
-      <p>Real-time tournament bracket manager with animated spin wheel randomizer, drag-and-drop team seeding, multi-tenant organizer RBAC, and automated institution conflict prevention rules.</p>
-      <sub><b>Tech Stack:</b> Nuxt 4, Vue 3.5, TypeScript, Nuxt UI v4, Tailwind CSS v4, Prisma 7, Supabase</sub>
-      <br/><br/>
-      <a href="https://github.com/AlmxndBL/esport-draw-nuxt"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
-    </td>
-    <!-- Project 4: Mini Leave Management -->
-    <td width="50%" valign="top">
-      <h3>🏢 Enterprise Leave Management &nbsp;&nbsp; <img src="https://img.shields.io/badge/.NET%208-Clean%20Arch-512BD4?style=flat-square" alt=".NET 8" valign="middle"/> <img src="https://img.shields.io/badge/Status-Complete-818CF8?style=flat-square" alt="Complete" valign="middle"/></h3>
-      <p>Enterprise HR leave portal architected with Clean Architecture principles, JWT/RBAC role-based authorization, Entity Framework Core atomic transactions, comprehensive audit logging, and an Angular dashboard.</p>
-      <sub><b>Tech Stack:</b> C#, .NET 8, Angular, EF Core, SQLite, RESTful API</sub>
-      <br/><br/>
-      <a href="https://github.com/AlmxndBL/Mini-Leave-Management-System"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
-    </td>
-  </tr>
-</table>
+- **💼 TPQI System Developer Level 3 (นักพัฒนาระบบ ระดับ 3)**  
+  Certified by Thailand Professional Qualification Institute (Public Organization) under the Digital Industry National Standard *(February 2026)* · [View Certificate](./certificate/Systems%20Developer%20Level%203.pdf)
+- **🧠 Super AI Engineer Development Program Season 5 — Innovator Level**  
+  Awarded Innovator title in Thailand's premier national AI program for developing production-grade RAG pipelines, neural models, and AI automation *(2025)* · [View Certificate](./certificate/Super_AI_Engineer_ss5_2025.png)
+- **☁️ AWS Cloud Foundation Program**  
+  Cloud infrastructure, service architecture, and security fundamentals certified by AWS & ERT *(July 2026)* · [View Certificate](./certificate/AWS%20Cloud%20Foundation%20Program.pdf)
+- **🛰️ National Academic Research Paper (SCI-TECH CMRU Conference 2026)**  
+  Authored satellite remote sensing research using Google Earth Engine & Sentinel-2 for provincial drought assessment.
+- **🏅 8th BRICC National Festival 2025 (Top 20 Teams)**  
+  Recognized in national higher-education competition for NLP mental health screening architecture · [View Certificate](./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf)
 
-<br/>
+---
 
-## ⚡ 2. AI Infrastructure & Developer Tooling (Open Source)
+## 🚀 Featured Engineering Systems
 
-<table width="100%">
-  <tr>
-    <!-- Apex-core -->
-    <td width="50%" valign="top">
-      <h3>⚡ Apex-core &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v5.4.0-06B6D4?style=flat-square" alt="v5.4.0" valign="middle"/> <img src="https://img.shields.io/badge/Open%20Source-MIT-22c55e?style=flat-square" alt="Open Source" valign="middle"/></h3>
-      <p>Deterministic AI Agent Operating Protocol & Token Economy Control Plane. Empirically proven across 50 production benchmark tasks in <a href="https://github.com/AlmxndBL/Apex-eval">Apex-eval</a> to reduce input token consumption by <b>🔻 58.4% on average (and up to 88.9% on large schemas)</b> ($p = 0.000000$). Features AST Cartography, fast in-RAM typechecking verifier, 2-strike circuit breaker, and 4 consolidated engineering skills.</p>
-      <sub><b>Key Areas:</b> Deterministic Control Plane · Empirical Token Reduction · AST Cartography · Verifier Engine</sub>
-      <br/><br/>
-      <a href="https://github.com/AlmxndBL/Apex-core"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
-      &nbsp;
-      <a href="https://github.com/AlmxndBL/Apex-eval"><img src="https://img.shields.io/badge/Benchmark-Apex--eval-10b981?style=flat-square&logo=github" alt="Benchmark"/></a>
-    </td>
-    <!-- Nexus -->
-    <td width="50%" valign="top">
-      <h3>🌌 Nexus AI Operating Hub &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-Active-00DC82?style=flat-square" alt="Active" valign="middle"/> <img src="https://img.shields.io/badge/v3.0.0-06B6D4?style=flat-square" alt="v3.0.0" valign="middle"/> <img src="https://img.shields.io/badge/MCP%203.0-Enabled-818CF8?style=flat-square" alt="MCP 3.0" valign="middle"/></h3>
-      <p>Autonomous AI Operating Hub & Central Control Plane. Features sub-second AST Codebase Skeleton Mapping, universal knowledge & pattern search engine, dynamic session memory persistence, central capability registry, and Universal MCP Bridge 3.0 (10 Tools).</p>
-      <sub><b>Key Areas:</b> Autonomous Operating Hub · Dynamic Memory OS · AST Codebase Mapping · MCP Protocol 3.0</sub>
-      <br/><br/>
-      <a href="https://github.com/AlmxndBL/nexus"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code"/></a>
-    </td>
-  </tr>
-</table>
+### 1. Apex-core & Nexus MCP 3.0 Hub — Deterministic AI Agent Operating Protocol
+> **AI Control Plane & Token Economy:** Controls autonomous coding agent behavior using a lightweight micro-kernel, AST codebase skeleton cartography, and verifiable evidence governance to eliminate hallucinations and runaway context loops.
 
-<br/>
+- **Micro-Kernel Architecture:** Core protocol (`AGENTS.md`) streamlined to 4.1 KB (~510 tokens) with Just-In-Time modular adapters (`web-fullstack`, `backend-data`, `polyglot-core`), reducing token context overhead by **>70%**.
+- **Universal MCP 3.0 Bridge:** Implements Model Context Protocol hub exposing 10 local-first tools for Agent IDEs (Antigravity, Cursor, Claude Code) with sub-second AST skeleton mapping.
+- **Circuit Breaker & Integrity Verification:** 2-strike execution breaker preventing infinite retry cascades; validated by automated test suite passing **113/113 framework integrity gates (100%)**.
+- **Empirical Token Savings:** Proven across 50 production tasks in Apex-eval to reduce input token consumption by **🔻 58.4% on average (up to 88.9% on large schemas)** with strict statistical significance ($p = 0.000000$).
+- **Links:** [Apex-core Repository](https://github.com/AlmxndBL/Apex-core) · [Apex-eval Benchmark](https://github.com/AlmxndBL/Apex-eval) · [Nexus MCP Hub](https://github.com/AlmxndBL/nexus)  
+- `TypeScript` `Model-Context-Protocol-3.0` `AST-Cartography` `Zod` `Vitest` `Node.js`
 
-## 🔬 3. Applied AI, Data Science & Research
+---
 
-<table width="100%">
-  <tr>
-    <!-- Research Project: Drought Risk Assessment -->
-    <td width="50%" valign="top">
-      <h3>🛰️ Satellite Drought Risk Assessment &nbsp;&nbsp; <img src="https://img.shields.io/badge/Research-SCI--TECH%202026-6366F1?style=flat-square" alt="SCI-TECH 2026" valign="middle"/></h3>
-      <p>Geospatial analysis and environmental risk assessment leveraging Google Earth Engine (GEE) and Sentinel-2 multispectral satellite imagery. Formulated drought risk mapping across Buriram province using remote sensing indices (NDVI, NDWI, VCI) and spatial statistical modeling.</p>
-      <sub><b>Tech Stack:</b> Google Earth Engine (GEE), Python, Sentinel-2 Remote Sensing, GIS Spatial Analysis</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Publication-Academic%20Conference%20Paper-4338CA?style=flat-square" alt="Conference Paper"/>
-    </td>
-    <!-- Super AI Engineer -->
-    <td width="50%" valign="top">
-      <h3>🏆 Super AI Engineer Season 5 &nbsp;&nbsp; <img src="https://img.shields.io/badge/Level-Innovator-F59E0B?style=flat-square" alt="Innovator" valign="middle"/></h3>
-      <p>Selected for Thailand's premier national AI development program (Advanced Track). Trained and evaluated in machine learning engineering, deep neural network architectures, computer vision pipelines, and production AI system deployment.</p>
-      <sub><b>Focus:</b> Deep Learning, Computer Vision, Machine Learning Pipelines, MLOps</sub>
-      <br/><br/>
-      <a href="./certificate/Super_AI_Engineer_ss5_2025.png"><img src="https://img.shields.io/badge/View-Certificate-F59E0B?style=flat-square" alt="View Certificate"/></a>
-    </td>
-  </tr>
-</table>
+### 2. SaiJai Phareab — Mission-Critical Commercial Laundry SaaS
+> **Full-Stack SaaS & IoT Hardware Bridge:** Mobile-first commercial laundry operations platform managing real-time orders, customer queue lifecycles, and local thermal receipt printing hardware.
 
-<br/>
+- **Multi-Transport ESC/POS Thermal Printing:** Engineered direct receipt printing via WebUSB, Web Bluetooth, and an isolated LAN Print Gateway microservice (Raw TCP port 9100 to Xprinter hardware). Built custom Thai Prompt-font canvas rasterization to prevent Thai vowel/tone truncation.
+- **High-Integrity Data Architecture:** 26 Prisma models handling membership packages, single-step atomic backdated accounting transactions, and credit settlement invariants.
+- **Defensive Integrations:** LINE LIFF & Messaging API webhook pipeline protected by timing-safe HMAC signature verification and deduplication filters.
+- **Automated Verification:** Covered by **65+ Vitest automated test suites** testing CSV formula injection, RBAC privilege escalation, payment state transitions, and ESC/POS render validity.
+- **Deployment:** Containerized into 3 independent Docker Compose profiles (local dev, production app + migration runner, and hardware print gateway).
+- **Status:** Production Commercial SaaS Platform  
+- `Nuxt 4` `Vue 3.5` `Nitro Engine` `Prisma 7` `PostgreSQL` `LINE LIFF` `ESC/POS` `Vitest` `Docker`
 
-## 🏅 Certificates & Professional Qualifications
+---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💼 System Developer Level 3 (นักพัฒนาระบบ ระดับ 3)</h4>
-      <p>สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน) — TPQI<br/>
-      <i>สาขาวิชาชีพอุตสาหกรรมดิจิทัล — มาตรฐานคุณวุฒิวิชาชีพแห่งชาติ</i></p>
-      <sub>📅 6 กุมภาพันธ์ 2569</sub><br/><br/>
-      <a href="./certificate/Systems Developer Level 3.pdf"><img src="https://img.shields.io/badge/View-Certificate-6366F1?style=flat-square" alt="View Certificate"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>☁️ AWS Cloud Foundation Program</h4>
-      <p>AWS & ERT (The Enterprise Resources Training)<br/>
-      <i>Cloud Infrastructure · Core AWS Services · Cloud Architecture</i></p>
-      <sub>📅 3 July 2026</sub><br/><br/>
-      <a href="./certificate/AWS%20Cloud%20Foundation%20Program.pdf"><img src="https://img.shields.io/badge/View-Certificate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="View Certificate"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏆 Super AI Engineer Season 5 — Innovator Level</h4>
-      <p>Super AI Engineer Development Program 2025<br/>
-      <i>National AI Development Program — Advanced Track</i></p>
-      <sub>📅 2025</sub><br/><br/>
-      <a href="./certificate/Super_AI_Engineer_ss5_2025.png"><img src="https://img.shields.io/badge/View-Certificate-F59E0B?style=flat-square" alt="View Certificate"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏅 8th BRICC National Festival 2025 — Top 20 Teams</h4>
-      <p>Buriram Rajabhat University<br/>
-      <i>งานราชภัฏหลักชาวบ้านดิจิทัล ครั้งที่ 8 — การแข่งขันระดับอุดมศึกษา</i></p>
-      <sub>📅 14 กุมภาพันธ์ 2568</sub><br/><br/>
-      <a href="./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf"><img src="https://img.shields.io/badge/View-Certificate-10B981?style=flat-square" alt="View Certificate"/></a>
-    </td>
-  </tr>
-</table>
+### 3. Enterprise Leave Management System — .NET 8 Clean Architecture
+> **Enterprise Backend Rigor:** Employee leave management portal architected with Clean Architecture principles, ensuring strict concurrency safety and organizational governance.
 
-<p align="center">
-  <a href="./certificate"><img src="https://img.shields.io/badge/Browse-All%20Certificates%20Directory-6366F1?style=flat-square&logo=github" alt="Browse All Certificates"/></a>
-</p>
+- **Clean Layered Architecture:** Strict separation between Web API Controllers, Domain Service Layer, Entity Framework Core Repositories, and DTO contracts.
+- **Atomic Concurrency Safety:** Employs `IDbContextTransaction` around quota validation, state transition, and balance deduction to eliminate race conditions and prevent over-allocation.
+- **Business Logic Algorithms:** Automated business days calculation excluding weekends; hierarchical approval authorization linked to department organizational charts (`Departments.ManagerId`).
+- **Modern Angular Frontend:** Built with Angular 18 standalone components, route guards, and JWT HTTP interceptors.
+- **Links:** [Source Code Repository](https://github.com/AlmxndBL/Mini-Leave-Management-System)  
+- `C#` `.NET 8 Web API` `Clean Architecture` `Entity Framework Core` `Angular 18` `JWT / RBAC`
 
-<br/>
+---
 
-<div align="center">
+### 4. Enterprise Observability & Log Management Platform
+> **High-Throughput Cyber Log Ingestion:** Heterogeneous log collection and real-time security analytics platform for enterprise environments.
 
-## Let's Connect
+- **Heterogeneous Ingestion Pipeline:** Integrates Vector log collector (Syslog UDP 514) with Nuxt 4 Nitro `/api/ingest` to normalize disparate formats (Firewall, CrowdStrike JSON, AWS CloudTrail) into a unified schema.
+- **Logical Multi-Tenancy:** Strict row-level isolation where data queries and API keys are scoped by `tenantId`, preventing cross-tenant leakage.
+- **Real-Time Detection & Debouncing:** In-memory alert evaluation engine monitoring brute-force thresholds (e.g. $\ge 5$ failed logins within 5 minutes) with cooldown debouncing.
+- **Links:** [Source Code Repository](https://github.com/AlmxndBL/full-stack_intern_test)  
+- `Nuxt 4` `TypeScript` `Vector Collector` `PostgreSQL (JSONB + GIN)` `Docker Compose` `Vitest`
 
-<a href="mailto:chaiyakorn.y04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-chaiyakorn.y04@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" />
-</a>
-&nbsp;
-<a href="https://github.com/AlmxndBL">
-  <img src="https://img.shields.io/badge/GitHub-AlmxndBL-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
-</a>
+---
 
-<br/><br/>
+### 5. Satellite Drought Risk Assessment — Geospatial Remote Sensing
+> **Environmental Big Data & Spatial Analytics:** Provincial-scale drought risk monitoring system utilizing satellite multispectral imagery and cloud computing.
 
-<sub><i>Architecting scalable, reliable software with clean design and verifiable craftsmanship.</i></sub>
+- **Dual Spectral Analysis:** Integrates Normalized Difference Vegetation Index (NDVI) and Normalized Difference Moisture Index (NDMI) from Sentinel-2 MSI Level-2A (10–20m resolution) to detect vegetation stress ahead of visible wilt.
+- **Temporal Baseline Calibration:** Modeled 5-year multi-temporal baselines (2019–2023) across Buriram province to filter out agricultural calendar cycle fluctuations.
+- **Peer-Reviewed Research:** Accepted and presented at the national academic conference **SCI-TECH CMRU 2026**.
+- **Status:** Academic Research Publication (SCI-TECH 2026)  
+- `Google Earth Engine (GEE)` `Python` `Sentinel-2 MSI` `Remote Sensing` `GIS Spatial Analysis`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%"/>
+---
 
-</div>
+## 🛠️ Technical Competencies
+
+```
+Languages       │ TypeScript, C# (.NET 8), JavaScript (ESNext), Python, SQL
+Frontend        │ Nuxt 4, Vue 3.5, Next.js 15, React 19, Angular 18, Tailwind CSS v4, Nuxt UI
+Backend & API   │ Node.js, Nitro Server, ASP.NET Core Web API, Model Context Protocol (MCP 3.0), RESTful APIs
+Database & ORM  │ PostgreSQL (JSONB / GIN), Prisma ORM (v7), Entity Framework Core, Supabase, SQLite
+DevOps & QA     │ Docker, Docker Compose, Vitest, Git / GitHub, Postman, Linux Environment
+Applied AI/Data │ Google Earth Engine (GEE), PyTorch, RAG Pipelines, Sentinel-2 Remote Sensing
+```
+
+---
+
+## 🎓 Education & Professional Credentials
+
+```
+Bachelor of Science in Computer Science
+Buriram Rajabhat University │ 2023 – Present (Expected Graduation: 2027)
+```
+
+| Credential / Certificate | Issuing Organization | Year | Direct Verification |
+| :--- | :--- | :--- | :--- |
+| **System Developer Level 3 (นักพัฒนาระบบ ระดับ 3)** | สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน) — TPQI | 2026 | [View PDF](./certificate/Systems%20Developer%20Level%203.pdf) |
+| **Super AI Engineer Season 5 (Innovator Level)** | Super AI Engineer Development Program | 2025 | [View PNG](./certificate/Super_AI_Engineer_ss5_2025.png) |
+| **AWS Cloud Foundation Program** | AWS & ERT (Enterprise Resources Training) | 2026 | [View PDF](./certificate/AWS%20Cloud%20Foundation%20Program.pdf) |
+| **8th BRICC National Festival (Top 20 Teams)** | Buriram Rajabhat University | 2025 | [View PDF](./certificate/เกียรติบัตร-bricc-2025-20ทีม.pdf) |
+| **Generative AI in Software Development** | Professional Program Certificate | 2026 | [View PDF](./certificate/Generative%20AI%20in%20Software%20Development.pdf) |
+| **Fundamentals of Artificial Intelligence** | Professional Program Certificate | 2026 | [View PDF](./certificate/Fundamentals%20of%20Artificial%20Intelligence.pdf) |
+
+> 📂 *Browse all verified certificates and documents in the [`./certificate`](./certificate) directory.*
+
+---
+
+## 📬 Contact & Opportunities
+
+I am actively seeking **Software Engineer / Full-Stack Developer** opportunities (Internship & Junior positions). I am prepared to contribute immediately to production codebases, enterprise backends, and AI developer tooling.
+
+- 📧 **Email:** [chaiyakorn.y04@gmail.com](mailto:chaiyakorn.y04@gmail.com)
+- 💼 **GitHub:** [github.com/AlmxndBL](https://github.com/AlmxndBL)
+- 📄 **Resume:** [Download Chaiyakorn_Resume.pdf](./resume/Chaiyakorn_Resume.pdf)
+- 📱 **Phone:** 085-849-5061
+- 📍 **Location:** Buriram / Bangkok, Thailand (Available for On-site, Hybrid, and Remote)
